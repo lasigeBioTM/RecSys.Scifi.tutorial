@@ -1,0 +1,4652 @@
+{
+    "paper_id": "06ced00a5fc04215949aa72528f2eeaae1d58927",
+    "metadata": {
+        "title": "Surfactant protein-D and pulmonary host defense = activator protein 1; C/EBP = CCAAT-enhancer-binding protein; CRD = carbohydrate recognition domain; HA = hemagglutinin; IAV = influenza A virus; LPS = lipopolysaccharide; PI = phosphatidylinositol; RT-PCR = reverse-transcriptase-mediated PCR; SP-D = surfactant protein-D",
+        "authors": [
+            {
+                "first": "Erika",
+                "middle": [
+                    "C"
+                ],
+                "last": "Crouch",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Washington University School of Medicine",
+                    "location": {
+                        "settlement": "St Louis",
+                        "region": "Missouri",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Surfactant protein-D (SP-D) participates in the innate response to inhaled microorganisms and organic antigens, and contributes to immune and inflammatory regulation within the lung. SP-D is synthesized and secreted by alveolar and bronchiolar epithelial cells, but is also expressed by epithelial cells lining various exocrine ducts and the mucosa of the gastrointestinal and genitourinary tracts. SP-D, a collagenous calcium-dependent lectin (or collectin), binds to surface glycoconjugates expressed by a wide variety of microorganisms, and to oligosaccharides associated with the surface of various complex organic antigens. SP-D also specifically interacts with glycoconjugates and other molecules expressed on the surface of macrophages, neutrophils, and lymphocytes. In addition, SP-D binds to specific surfactant-associated lipids and can influence the organization of lipid mixtures containing phosphatidylinositol in vitro. Consistent with these diverse in vitro activities is the observation that SP-D-deficient transgenic mice show abnormal accumulations of surfactant lipids, and respond abnormally to challenge with respiratory viruses and bacterial lipopolysaccharides. The phenotype of macrophages isolated from the lungs of SP-Ddeficient mice is altered, and there is circumstantial evidence that abnormal oxidant metabolism and/or increased metalloproteinase expression contributes to the development of emphysema. The expression of SP-D is increased in response to many forms of lung injury, and deficient accumulation of appropriately oligomerized SP-D might contribute to the pathogenesis of a variety of human lung diseases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Surfactant protein-D (SP-D) is a member of the collagenous subfamily of calcium-dependent lectins (collectins) that includes pulmonary surfactant protein A (SP-A) and the serum mannose-binding lectin [1] [2] [3] . Collectins inter-act with a wide variety of microorganisms, lipids, and organic particulate antigens, and can modulate the function of immune effector cells and their responses to these ligands. This article reviews what is currently known about the sites of production, structure, function, and regulated expression of SP-D. Emphasis will be placed on functional attributes, known ligand interactions, and structure-function relationships believed to be important for host defense. For additional information on SP-A and other members of the collectin family, the reader is referred to other recent reviews [4] [5] [6] .",
+            "cite_spans": [
+                {
+                    "start": 200,
+                    "end": 203,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 204,
+                    "end": 207,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 208,
+                    "end": 211,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 822,
+                    "end": 825,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 826,
+                    "end": 829,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 830,
+                    "end": 833,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "SP-D is synthesized and secreted into the airspaces of the lung by the respiratory epithelium [1] . At the alveolar level, SP-D is constitutively synthesized and secreted by alveolar type II cells. More proximally in the lung, SP-D is secreted by a subset of bronchiolar epithelial cells, the non-ciliated Clara cells. Because SP-D is stored within the secretory granules of Clara cells [7, 8] , it seems likely that SP-D is subject to regulated secretion via granule exocy-tosis at this level of the respiratory tract. In some species, SP-D is also synthesized by epithelial cells and/or submucosal glands associated with the bronchi and trachea [9] . Although many alveolar macrophages show strong cytoplasmic and/or membrane labeling with antibody against SP-D, they do not contain detectable SP-D message.",
+            "cite_spans": [
+                {
+                    "start": 94,
+                    "end": 97,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 387,
+                    "end": 390,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 391,
+                    "end": 393,
+                    "text": "8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 647,
+                    "end": 650,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sites of SP-D production"
+        },
+        {
+            "text": "The lung seems to be the major site of SP-D production. However, there is increasing evidence for extrapulmonary sites of expression as assessed with monoclonal or affinity-purified antibodies, reverse-transcriptase-mediated PCR (RT-PCR), and/or hybridization assays of tissues from humans and other large mammals [10 \u2022 ,11-14] (summarized in Table 1 ). It is difficult to entirely exclude crossreactions or amplification of related sequences; however, localization to many of these sites in human tissues was confirmed by using monoclonal antibodies in combination with RT-PCR with sequencing of the amplified products [10 \u2022 ]. Non-pulmonary expression seems to be largely restricted to cells lining epithelial surfaces or ducts and certain glandular epithelial cells that are in direct or indirect continuity with the environment. Notable exceptions to this generalization might include heart, brain, pancreatic islets, and testicular Leydig cells. SP-D has also been identified in amnionic epithelial cells by immunohistochemistry [15] ; however, it is unclear whether this is synthesized locally or derived from the lung by way of the amniotic fluid. Interestingly, in many of these sites SP-D microscopically co-localizes with gp-340, an SP-D binding protein and putative SP-D receptor [10 \u2022 ].",
+            "cite_spans": [
+                {
+                    "start": 314,
+                    "end": 327,
+                    "text": "[10 \u2022 ,11-14]",
+                    "ref_id": null
+                },
+                {
+                    "start": 620,
+                    "end": 625,
+                    "text": "[10 \u2022",
+                    "ref_id": null
+                },
+                {
+                    "start": 1034,
+                    "end": 1038,
+                    "text": "[15]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1291,
+                    "end": 1296,
+                    "text": "[10 \u2022",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 343,
+                    "end": 350,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Sites of SP-D production"
+        },
+        {
+            "text": "Sites of extrapulmonary expression have also been described in small mammals. In the rat, SP-D message was identified in RNA extracted from skin and blood vessel [16] , and both protein and message were identified in gastric mucosa [17] and mesentery [13] . Using RT-PCR, SP-D message has also been identified in mouse stomach, heart, and kidney [14] .",
+            "cite_spans": [
+                {
+                    "start": 162,
+                    "end": 166,
+                    "text": "[16]",
+                    "ref_id": null
+                },
+                {
+                    "start": 232,
+                    "end": 236,
+                    "text": "[17]",
+                    "ref_id": null
+                },
+                {
+                    "start": 251,
+                    "end": 255,
+                    "text": "[13]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 346,
+                    "end": 350,
+                    "text": "[14]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sites of SP-D production"
+        },
+        {
+            "text": "SP-D (43 kDa, reduced) consists of at least four discrete structural domains: a short, N-terminal domain; a relatively long collagenous domain, a short amphipathic connecting peptide or coiled-coil neck domain, and a C-terminal, Ctype lectin carbohydrate recognition domain (CRD). Each molecule consists of trimeric subunits (3 \u00d7 43 kDa), which associate at their N-termini (Fig. 1) . Although most preparations of SP-D contain a predominance of dodecamers (that is, four trimeric subunits), the proportions of various oligomers vary between species. For example, rat lavage and recombinant rat SP-D are almost exclusively assembled as dodecamers (four trimers), whereas recombinant human SP-D is secreted as trimers, dodecamers and higher-order multimers [18] . SP-D isolated from the lavage of some patients with alveolar proteinosis consists predominantly of higher-order multimers, which can contain up to 32 (or more) trimeric subunits (Fig. 1 ).",
+            "cite_spans": [
+                {
+                    "start": 756,
+                    "end": 760,
+                    "text": "[18]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 374,
+                    "end": 382,
+                    "text": "(Fig. 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 941,
+                    "end": 948,
+                    "text": "(Fig. 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "SP-D structure"
+        },
+        {
+            "text": "Recent crystallographic and mutagenesis studies suggest that the structural determinants of saccharide binding are similar to those originally described for mannose-binding lectin [19,20,21 \u2022 ,22 \u2022 ]. At least two bound calcium ions and two intrachain disulfide crosslinks stabilize the required tertiary structure, and Glu321 and Asn323 within the CRD participate in glucose/mannose type recognition. Interactions with at least one glycolipid ligand, phosphatidylinositol (PI), require the participation of the C-terminal end of the protein [23, 24] .",
+            "cite_spans": [
+                {
+                    "start": 542,
+                    "end": 546,
+                    "text": "[23,",
+                    "ref_id": null
+                },
+                {
+                    "start": 547,
+                    "end": 550,
+                    "text": "24]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Neck and CRDs"
+        },
+        {
+            "text": "A trimeric cluster of CRDs is necessary for high-affinity binding to carbohydrate ligands [21 \u2022 ,25]. The crystal structure of human SP-D suggests that the spatial distribution of CRDs within a trimeric subunit permits simultaneous and cooperative interactions with two or three glycoconjugates displayed on the surface of a particulate ligand [21 \u2022 ]. Furthermore, solid-phase binding studies have shown that monomeric CRDs have an approximately 10-fold lower binding affinity for multivalent ligands than trimeric CRDs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Neck and CRDs"
+        },
+        {
+            "text": "Crystallographic studies of human SP-D further suggest that the spatial organization of CRDs within a trimer is stabilized by interactions of the C-terminal sequence with the trimeric neck domain [21 \u2022 ,26]. Interestingly, the three CRDs show a deviation from threefold asymmetry, suggesting some flexibility of the CRDs in relation to the neck. Thus, the dependence of the binding of PI on the C-terminal sequence could reflect conformational effects, rather than the direct participation of this sequence in ligand interactions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Neck and CRDs"
+        },
+        {
+            "text": "The collagen domain length of SP-D is highly conserved and lacks interruptions in the repeating Gly-X-Y sequence (in which X and Y are different amino acids). As for other collagenous proteins, this domain is enriched in imino acids and contains hydroxyproline. Unlike SP-A, SP-D also contains hydroxylysine. Although the collagen domain of rat, human, bovine, and mouse SP-D lacks cysteine residues, cDNA sequencing has identified a codon for cysteine within the collagen domain of pig SP-D [27 \u2022 ]; this suggests the possibility of alternative patterns of chain association and oligomeric assembly for pig SP-D.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Collagen domain"
+        },
+        {
+            "text": "The first translated exon of SP-D contains a highly conserved and unusually hydrophilic Gly-X-Y sequence that shows little homology with the remainder of the collagen sequence. The functional significance of this region is unknown. However, it has been suggested that this region contributes to oligomer assembly or mediates interactions with cellular receptors.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Collagen domain"
+        },
+        {
+            "text": "The collagen domain determines the maximal spatial separation of trimeric, C-terminal lectin domains within SP-D molecules, but might also contribute to normal oligomeric assembly and secretion. For example, deletion of the entire collagen domain of rat SP-D results in the secretion of trimers rather than dodecamers [28] . In addition, 2,2-dipyridyl, an inhibitor of prolyl hydroxylation that interferes with the formation of a stable collagen helix, causes the intracellular accumulation of 43 kDa monomers and dimers [29] . In any case, the complete conservation of the number of Gly-X-Y triplets suggests that the spatial separation of trimeric CRDs is critical for normal SP-D function.",
+            "cite_spans": [
+                {
+                    "start": 318,
+                    "end": 322,
+                    "text": "[28]",
+                    "ref_id": null
+                },
+                {
+                    "start": 521,
+                    "end": 525,
+                    "text": "[29]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Collagen domain"
+        },
+        {
+            "text": "The N-terminal peptide of the mature protein contains two conserved cysteine residues at positions 15 and 20. These residues participate in interchain disulfide crosslinks that stabilize the trimer, as well as the N-terminal association of four or more trimeric subunits. Stable oligomerization of trimeric subunits permits cooperative or bridging interactions between spatially separated binding sites on the same surface or on different particles.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "N-terminal domain"
+        },
+        {
+            "text": "The process of forming interchain disulfide bonds is complex, and appropriate crosslinking of the N-terminal domains might be rate limiting for secretion [30] . Subcellular fractionation studies suggest that interchain bonds form initially between the three chains of a trimeric subunit. Subsequent rearrangements within the rough endoplasmic reticulum might allow the covalent crosslinking of a single chain from one subunit and two crosslinked chains of another, with the associated elimination of free thiol groups. Mutant proteins that contain unpaired N-terminal cysteine residues are not secreted. However, it is unclear whether this results from abnormalities in disulfide bonding itself, or the failure to stabilize the required N-terminal conformation.",
+            "cite_spans": [
+                {
+                    "start": 154,
+                    "end": 158,
+                    "text": "[30]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "N-terminal domain"
+        },
+        {
+            "text": "The collagen domain contains hydroxylysyl-derived glycosides and a single N-linked oligosaccharide. In most species (human, rat, mouse, and cow) the site of N-linked glycosylation is located near the N-terminal end of the collagenous domain. Recently, it was shown that pig SP-D has an additional potential site of N-linked glycosylation within the CRD [27 \u2022 ]. Although rat and human lung lavage SP-D seem to be sialylated, as suggested by charge heterogeneity and cleavage with highly purified neuraminidase, preparations of human amniotic fluid and bovine lavage SP-D recovered from amniotic fluid showed predominantly complex type biantennary structures and no sialic acid [31] .",
+            "cite_spans": [
+                {
+                    "start": 677,
+                    "end": 681,
+                    "text": "[31]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Glycosylation of SP-D"
+        },
+        {
+            "text": "A variant form of SP-D (50 kDa) has been identified in lavage from a subset of human lavage samples; this protein shows O-linked glycosylation of threonyl residues within the N-terminal peptide domain [32 \u2022 ]. At present, the functional significance of these sugars is not known. The presence of O-linked glycosylation within the N-terminal domain might be predicted to interfere with normal dodecamer assembly. In this regard, the O-glycosylated 50 kDa form of human SP-D is recovered as trimeric subunits or smaller species.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Glycosylation of SP-D"
+        },
+        {
+            "text": "As for many glycoproteins, the functional role of the attached carbohydrate is unknown. Mutational analysis has shown that the N-linked sugar on rat SP-D is not required for secretion, for dodecamer formation, or for interactions with a variety of microorganisms [29,33].",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Glycosylation of SP-D"
+        },
+        {
+            "text": "Consistent with its designation as a 'mannose-type' C-type lectin, SP-D preferentially binds to simple and complex saccharides containing mannose, glucose, or inositol [34, 35] . SP-D also interacts with specific constituents of pulmonary surfactant including PI [36-38] and glucosylceramide [39] . Binding to glucosylceramide involves interactions of the carbohydrate-binding sequences of the CRD with the glucosyl moiety. However, the interaction of SP-D with PI involves interactions with the lipid, as well as CRD-dependent interactions with the inositol moiety [24, 40] .",
+            "cite_spans": [
+                {
+                    "start": 168,
+                    "end": 172,
+                    "text": "[34,",
+                    "ref_id": null
+                },
+                {
+                    "start": 173,
+                    "end": 176,
+                    "text": "35]",
+                    "ref_id": null
+                },
+                {
+                    "start": 292,
+                    "end": 296,
+                    "text": "[39]",
+                    "ref_id": null
+                },
+                {
+                    "start": 566,
+                    "end": 570,
+                    "text": "[24,",
+                    "ref_id": null
+                },
+                {
+                    "start": 571,
+                    "end": 574,
+                    "text": "40]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "SP-D ligands"
+        },
+        {
+            "text": "Microorganisms are surfaced with a diverse and complex array of polysaccharides and glycoconjugates, and most classes of microorganism contain one or more sugars recognized by SP-D. However, the outcome of this interaction depends on the specific organism and can be modified by the conditions of microbial growth. The potential consequences of this interaction include the following: varying degrees of lectin-dependent aggregation (namely, microbial agglutination), enhanced binding of microorganisms or microbial aggregates to their 'receptors' on host cells, phagocyte activation, and opsonic enhancement of phagocytosis and killing, potentially involving one or more cellular receptors for SP-D. Binding to organisms in suspension is often -but not always -accompanied by some degree of aggregation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SP-D ligands"
+        },
+        {
+            "text": "SP-D binds to purified lipopolysaccharide (LPS) isolated from a variety of Gram-negative organisms [35, 41] . In addition, LPS is the major cell wall component that is labeled on lectin blotting of outer membranes isolated from Escherichia coli [41] . The latter interactions involve the recognition of the core oligosaccharide domain, which contains glucose and heptose [41] . SP-D interacts preferentially with purified LPS molecules characterized by short or absent O-antigens and preferentially agglutinates bacterial strains expressing a predominance of rough (O-antigen-deficient) LPS [41, 44] .",
+            "cite_spans": [
+                {
+                    "start": 99,
+                    "end": 103,
+                    "text": "[35,",
+                    "ref_id": null
+                },
+                {
+                    "start": 104,
+                    "end": 107,
+                    "text": "41]",
+                    "ref_id": null
+                },
+                {
+                    "start": 245,
+                    "end": 249,
+                    "text": "[41]",
+                    "ref_id": null
+                },
+                {
+                    "start": 371,
+                    "end": 375,
+                    "text": "[41]",
+                    "ref_id": null
+                },
+                {
+                    "start": 591,
+                    "end": 595,
+                    "text": "[41,",
+                    "ref_id": null
+                },
+                {
+                    "start": 596,
+                    "end": 599,
+                    "text": "44]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Mechanisms of interaction"
+        },
+        {
+            "text": "Although the core oligosaccharide domain of LPS constitutes the major ligand for SP-D on at least some Gram-negative bacteria, the mechanism of interaction with this group of microorganisms is probably heterogeneous. SP-D binds to some smooth, unencapsulated strains of Gram-negative bacteria by immunofluorescence. The mechanism is uncertain; the quantity or quality of binding differs from that observed for rough strains and does not necessarily result in agglutination. LPS molecules on the surfaces of bacteria show heterogeneity in the extent of maturation, so it is possible that this interaction is mediated by a subpopulation of LPS with deficient O-antigens and that the density of binding sites is too low for high-affinity binding.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Mechanisms of interaction"
+        },
+        {
+            "text": "The recognition of the surface glycoconjugates on Gramnegative bacteria by SP-D depends not only on the expression of lectin-specific residues by a given strain or species, but also on the accessibility of these residues [1, 45] . For example, SP-D binds inefficiently to the core region of LPS of encapsulated Klebsiella, but efficiently agglutinates the corresponding unencapsulated phase variants. Interactions of SP-D with the core oligosaccharides of Gram-negative organisms are also influenced by the number of repeating saccharide units associated with the terminal O-antigen of the LPS [41,44].",
+            "cite_spans": [
+                {
+                    "start": 221,
+                    "end": 224,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 225,
+                    "end": 228,
+                    "text": "45]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Determinants of binding to cell wall LPS"
+        },
+        {
+            "text": "Other potential ligands include the O-antigen domain of LPS, certain capsular polysaccharides, and membraneassociated glycoproteins. In this regard, SP-D can bind to di-mannose containing O-antigens expressed by a subset of Klebsiella serotypes (I Ofek, H Sahly and EC Crouch, unpublished data). Although other C-type lectins, specifically SP-A and the mannose receptor, can interact with specific capsular polysaccharides [46], a specific interaction of SP-D with capsular glycoconjugates or exopolysaccharides has not been described.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Other Gram-negative ligands"
+        },
+        {
+            "text": "The mechanism of interaction with Gram-positive organisms has not been elucidated. Lipoteichoic acids, which are the major glycolipids associated with the Gram-positive cell wall, do not detectably compete with LPS for binding to SP-D (I Ofek, A Mesika, M Kalina, Y Keisari, D Chang, D McGregor and EC Crouch, manuscript submitted). In preliminary studies we observed that binding was competed only partly with maltose and/or EDTA, raising the possibility that binding might be more complex than for some Gram-negative organisms. . However, similar effects were observed when the neutrophils were preincubated with SP-D, and there was only a slight enhancement of uptake when bacteria were incubated with human SP-D and washed before their addition to neutrophils. Notably, the extent of binding and internalization was dependent on the extent of multimerization, with human SP-D multimers demonstrating the highest potency. Differences in cell type, the extent of SP-D multimerization, or differences in size or organization of bacterial aggregates could account for some of the apparent inconsistencies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Gram-positive bacteria"
+        },
+        {
+            "text": "Although LPS mediates the binding of SP-D to at least some Gram-negative bacteria, SP-D can also bind to spe- In the latter study the authors suggested that fungal aggregation inhibits phagocytosis. Interestingly, SP-D binding directly inhibited fungal growth and decreased the outgrowth of pseudohyphae, the invasive form of the fungus, in the absence of phagocytic cells [57] . It is possible that these effects are also secondary to agglutination, possibly as result of nutrient deprivation.",
+            "cite_spans": [
+                {
+                    "start": 373,
+                    "end": 377,
+                    "text": "[57]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Interactions with bacterial endotoxin"
+        },
+        {
+            "text": "Purified rat and human SP-D inhibit the infectivity and hemagglutination activity of influenza ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Respiratory viruses"
+        },
+        {
+            "text": "SP-D can interact with host cells, both directly and indirectly. As indicated above, SP-D can enhance the phagocytosis and killing of certain microorganisms and enhance the oxidant response to microbial binding. However, at present there is only one study that suggests that the enhancement of phagocytosis by SP-D might involve the participation of an opsonic receptor. Furthermore, the enhanced uptake of IAV seems to be mediated by viral aggregation, with enhanced interactions of the virus with its natural receptors on the host cell.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Interactions of SP-D with host cells"
+        },
+        {
+            "text": "In any case, SP-D can interact directly with host cells, and in some cases can influence their behavior. SP-D is chemotactic and haptotactic for neutrophils and certain mononuclear phagocytes [59 \u2022 ,67-69] and can elicit directional actin polymerization in alveolar macrophages [69] . In this regard, SP-D is considerably more potent than SP-A. Early studies with natural proteins isolated from silicotic animals reported directed effects on the oxidant metabolism of isolated alveolar macrophages [70] . However, such effects can probably be attributed to endotoxin contamination and/or aggregation. Purified dodecamers do not significantly increase the production of nitric oxide [71] or of proinflammatory cytokines such as tumor necrosis factor-\u03b1 (Y Kesari, H Wang, A Mesika, E Crouch and I Ofek, unpublished data). Interestingly, purified SP-D has been reported to increase the production of several metalloproteinases in the absence of a significant effect on proinflammatory cytokine production [72] .",
+            "cite_spans": [
+                {
+                    "start": 278,
+                    "end": 282,
+                    "text": "[69]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 498,
+                    "end": 502,
+                    "text": "[70]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 682,
+                    "end": 686,
+                    "text": "[71]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1002,
+                    "end": 1006,
+                    "text": "[72]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Interactions of SP-D with host cells"
+        },
+        {
+            "text": "Despite the ability of SP-D to modulate a variety of cellular functions, little is currently known about potential cellular receptors for this protein. compartments [73] , but it is unclear whether the uptake is receptor dependent and whether SP-D is being internalized in association with specific ligands.",
+            "cite_spans": [
+                {
+                    "start": 165,
+                    "end": 169,
+                    "text": "[73]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "SP-D receptors"
+        },
+        {
+            "text": "There are at least two classes of binding to host cells: CRD-dependent and CRD-independent. Some studies have demonstrated CRD-dependent binding to phagocytes that can be inhibited with EDTA or competing saccharides, both in vitro and in vivo.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SP-D receptors"
+        },
+        {
+            "text": "As indicated above, the ability of SP-D to elicit the chemotaxis of neutrophilic and monocytic cells depends on the lectin activity of SP-D [68] . In addition, Kuan and coworkers reported that extracting formaldehyde-fixed alveolar macrophages with detergents largely eliminates the binding of purified SP-D, suggesting a membrane-associated ligand or glycolipid receptor [73] . Dong and Wright have extended these findings and suggest that PI can contribute to SP-D binding by alveolar macrophages [74] .",
+            "cite_spans": [
+                {
+                    "start": 140,
+                    "end": 144,
+                    "text": "[68]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 372,
+                    "end": 376,
+                    "text": "[73]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 499,
+                    "end": 503,
+                    "text": "[74]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "CRD-dependent cell binding"
+        },
+        {
+            "text": "It is of interest that SP-D can bind to recombinant sCD14 through interactions with N-linked oligosaccharides [51 \u2022 ].",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CRD-dependent cell binding"
+        },
+        {
+            "text": "Given that the membrane-associated form of CD14 is widely expressed on host cells, it is possible that CD14 can serve as a binding site on macrophages and other cell types.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CRD-dependent cell binding"
+        },
+        {
+            "text": "The phagocytic uptake of certain bacteria by neutrophils is also inhibited by calcium chelation or competing sugars [42]; however, this could result from the inhibition of microbial agglutination rather than lectin-dependent interactions with the phagocyte. Wang et al suggested that SP-D can bind to lymphocytic cells by a lectin-dependent mechanism [75 \u2022\u2022 ] . In this regard, it is interesting to note that glucosylceramide, a ligand for SP-D in vitro, is one of the most abundant neutral glycolipids expressed by lymphoid cells.",
+            "cite_spans": [
+                {
+                    "start": 351,
+                    "end": 359,
+                    "text": "[75 \u2022\u2022 ]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "CRD-dependent cell binding"
+        },
+        {
+            "text": "Reid and co-workers were the first to present evidence for lectin-independent binding [76] . These and other studies suggested that binding does not involve known C1q or collectin receptors. The only putative receptor protein, gp-340, is a widely expressed member of the scavenger receptor superfamily [77,78 \u2022 ]. It binds to the CRD of SP-D in a calcium-dependent manner that does not require the lectin activity of SP-D. Although the protein has been immunolocalized to alveolar macrophage membranes and distributes together with SP-D in many different human tissues [10 \u2022 ,77], it has not yet been shown to mediate the binding of SP-D to these cells or to participate in signal transduction events. The cDNAs isolated from lung have not shown a membrane-spanning region [77] , and the protein is abundant as a soluble component in BAL. Given that gp-340 is a highly multimerized protein that contains numerous potential ligand binding domains (Fig. 1b) , it is possible that the protein cooperates with SP-D in the neu-tralization or clearance of certain ligands rather than specifically mediating the interactions of SP-D with host cells.",
+            "cite_spans": [
+                {
+                    "start": 86,
+                    "end": 90,
+                    "text": "[76]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 302,
+                    "end": 310,
+                    "text": "[77,78 \u2022",
+                    "ref_id": null
+                },
+                {
+                    "start": 773,
+                    "end": 777,
+                    "text": "[77]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 946,
+                    "end": 955,
+                    "text": "(Fig. 1b)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "CRD-independent cell binding"
+        },
+        {
+            "text": "Wright and co-workers have demonstrated the binding of SP-D to isolated type II pneumocytes. The mechanism seems distinct from the binding to macrophages [79 \u2022 ]. The binding was dependent on concentration, time, and temperature and required calcium; it was not sensitive to protease treatment or to PI-phospholipase C. Although the internalized SP-D was degraded or recycled to lamellar bodies, SP-D binding did not alter the uptake of surfactant lipids.",
+            "cite_spans": [
+                {
+                    "start": 154,
+                    "end": 159,
+                    "text": "[79 \u2022",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Interactions with type II cells"
+        },
+        {
+            "text": "SP-D has demonstrated comparatively few direct effects on the metabolism of host cells, at least in situations where self-aggregation and endotoxin contamination have been excluded. One possible explanation is that modulation of cellular function requires the prior interaction of SP-D with a ligand. This would have numerous potential physiological advantages, because the presence of 'active' protein might be restricted to sites of microbial or antigenic deposition. The binding of complex, multivalent, particulate antigens to two or more CRDs could markedly alter the conformation of SP-D molecules, with respect to the spatial orientation of the arms in relation to the N-terminal crosslinking domain and/or with respect to the spatial orientation of the CRDs within a given trimeric subunit. Thus, the 'charging' of SP-D with a particulate ligand could lead to local or distant conformational changes that expose 'cryptic' binding sites for cellular receptors.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "'Charging' of SP-D versus SP-D-dependent ligand aggregation: hypotheses"
+        },
+        {
+            "text": "There is some preliminary evidence consistent with the notion that the interaction of SP-D with a ligand alters its capacity to activate host cells. Table 3 and discussed below.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 149,
+                    "end": 156,
+                    "text": "Table 3",
+                    "ref_id": "TABREF7"
+                }
+            ],
+            "section": "'Charging' of SP-D versus SP-D-dependent ligand aggregation: hypotheses"
+        },
+        {
+            "text": "SP-D can be isolated in different multimeric forms from proteinosis lavage [32 \u2022 ] and are produced by Chinese hamster ovary K1 cells transfected with human SP-D cDNA [18] . As described previously, the effects of SP-D on the neutrophil response to influenza virus are highly dependent on the ability of SP-D to agglutinate the viral particles, and the agglutination activity is directly correlated with the extent of multimerization. Trimers can bind to the virus but have little capacity to modulate neutrophil interactions. By contrast, highly multimerized proteins show greater activity than dodecamers [81] .",
+            "cite_spans": [
+                {
+                    "start": 167,
+                    "end": 171,
+                    "text": "[18]",
+                    "ref_id": null
+                },
+                {
+                    "start": 607,
+                    "end": 611,
+                    "text": "[81]",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Altered patterns of oligomerization"
+        },
+        {
+            "text": "Given these observations, factors that favor enhanced oligomerization or lead to the accumulation of trimeric subunits promote might influence SP-D function. For example, the liberation of active trimers by a hypothetical microbial protease could lead to the accumulation of molecules that might inhibit the aggregation-dependent activities of SP-D.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Altered patterns of oligomerization"
+        },
+        {
+            "text": "In contrast, recombinant trimeric CRDs can stimulate chemotaxis [67] and decrease viral infectivity [65 \u2022 ]. Although higher-order oligomers of SP-D can self-aggregate and precipitate in the presence of calcium in vitro, the functional consequences are not known.",
+            "cite_spans": [
+                {
+                    "start": 64,
+                    "end": 68,
+                    "text": "[67]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Altered patterns of oligomerization"
+        },
+        {
+            "text": "The lectin activity of SP-A is decreased after the nitric oxide-dependent nitration of tyrosine residues [82] , and nitration decreases the ability of SP-A to enhance the adherence of Pneumocystis to alveolar macrophages [83] . However, similar findings have not yet been reported for SP-D. Conditions of mildly acidic pH, as might be found in endocytic compartments, are predicted to disrupt the lectin-dependent activities of SP-D [34]. Proteolytic degradation remains an important possibility. However, SP-D is highly resistant to degradation by a wide variety of neutral proteases in vitro, and degradation products have not yet been shown to accumulate under pathological conditions in vivo.",
+            "cite_spans": [
+                {
+                    "start": 105,
+                    "end": 109,
+                    "text": "[82]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 221,
+                    "end": 225,
+                    "text": "[83]",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Biochemical modifications to the CRD"
+        },
+        {
+            "text": "Glucose concentrations at levels encountered in diabetes can interfere with SP-D's ability to interact with specific strains of IAV or other microorganisms in vitro [84 \u2022 ]. Many microorganisms release cell wall polysaccharides or glycoconjugates, which might interfere with the binding of collectins to the same or other organisms. In this regard, SP-D recovered from rats after the instillation of LPS into the airway shows decreased lectin activity, which is attributed to occupancy of the CRD with LPS [49 \u2022 ]. It seems reasonable to speculate that some organisms might compete with other organisms for binding to SP-D. Such a situation could conceivably predispose to secondary infections. Lastly, the potential inhibitory effects of competing saccharide ligands presents important methodological considerations for experiments using carbohydrate-containing cell culture medium or buffers. Non C-type lectins (such as ficolins)",
+            "cite_spans": [
+                {
+                    "start": 165,
+                    "end": 170,
+                    "text": "[84 \u2022",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Competing ligands"
+        },
+        {
+            "text": "It is difficult to predict the functions of SP-D within the airspace. Other lectins with overlapping specificity are also present. Although the levels of mannose-binding lectin are probably low in the absence of increased vascular permeability, SP-A and the macrophage mannose receptor could conceivably interact with the same ligands in the distal airways and alveoli. Such interactions could lead to antagonistic or cooperative effects. Furthermore, we have little knowledge regarding the microanatomic distribution of these molecules in specific circumstances in vivo.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Host lectins with overlapping specificity"
+        },
+        {
+            "text": "Although most SP-A is probably associated with the insoluble phase of the alveolar lining material, and the macrophage mannose receptor is membrane-associated, the distribution might be altered in the setting of lung injury.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Host lectins with overlapping specificity"
+        },
+        {
+            "text": "Models of SP-D deficiency show no detectable anatomical or physiological abnormalities at birth. However, the animals gradually develop a patchy, subpleural alveolar lipidosis with associated type II cell hypertrophy, the accumulation of enlarged and foamy macrophages, and an apparent expansion of peribronchial lymphoid tissue [85 \u2022 ,86 \u2022 ]. Interestingly, the mice eventually develop distal-acinar emphysema and areas of subpleural fibrosis, which could reflect a continuing inflammatory reaction associated with abnormal oxidant metabolism and metalloproteinase activity [87 \u2022 ]. By contrast, SP-A-deficient mice (-/-) show essentially normal respiratory function and surfactant lipid metabolism [88, 89] but numerous apparent host defense abnormalities [90] .",
+            "cite_spans": [
+                {
+                    "start": 329,
+                    "end": 340,
+                    "text": "[85 \u2022 ,86 \u2022",
+                    "ref_id": null
+                },
+                {
+                    "start": 575,
+                    "end": 580,
+                    "text": "[87 \u2022",
+                    "ref_id": null
+                },
+                {
+                    "start": 700,
+                    "end": 704,
+                    "text": "[88,",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 705,
+                    "end": 708,
+                    "text": "89]",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 758,
+                    "end": 762,
+                    "text": "[90]",
+                    "ref_id": "BIBREF48"
+                }
+            ],
+            "ref_spans": [],
+            "section": "In vivo models of SP-D deficiency"
+        },
+        {
+            "text": "The capacity of SP-D to bind to specific strains of influenza A in vitro is highly correlated with the capacity of the virus to proliferate in mice in vivo [62] . Specifically, strains with more oligosaccharide attachments on the HA are preferentially neutralized by SP-D in vitro and show decreased proliferation in mice. Because the administration of mannan together with the virus increased the replication of IAV in the lung, the involvement of a mannose-type, C-type lectin was implicated.",
+            "cite_spans": [
+                {
+                    "start": 156,
+                    "end": 160,
+                    "text": "[62]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Challenge of normal mice"
+        },
+        {
+            "text": "SP-D-sensitive IAV strains also replicate to higher titers in the lungs of diabetic mice than in nondiabetic controls [84 \u2022 ]. Replication of the virus is positively correlated with blood glucose level, and decreases in response to insulin treatment. Significantly, blood glucose levels comparable to those measured in the diabetic mice were sufficient to inhibit the interaction of SP-D with these viral strains in vitro. PR-8, a strain that does not interact with SP-D but does interact with SP-A, replicated to the same extent in diabetic and control mice.",
+            "cite_spans": [
+                {
+                    "start": 118,
+                    "end": 123,
+                    "text": "[84 \u2022",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Challenge of normal mice"
+        },
+        {
+            "text": "SP-D levels increase in association with certain infections. For example, SP-D levels, but not the levels of serum mannose-binding lectin, increase markedly after IAV infection [62] . Impressive increases in SP-D have also been observed in murine models of Pneumocystis carinii [91] and P. aeruginosa infection [92] .",
+            "cite_spans": [
+                {
+                    "start": 177,
+                    "end": 181,
+                    "text": "[62]",
+                    "ref_id": null
+                },
+                {
+                    "start": 278,
+                    "end": 282,
+                    "text": "[91]",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 311,
+                    "end": 315,
+                    "text": "[92]",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Challenge of normal mice"
+        },
+        {
+            "text": "SP-D-deficient mice have not yet been extensively characterized with respect to host defense function. However, they show decreased viral clearance and enhanced inflammation after challenge with respiratory syncytial virus [93] and IAV (AM Levine, personal communication). In addition, they show increased inflammation, increased oxidant production, and decreased macrophage phagocytosis in response to intratracheally instilled group B streptococcus and Haemophilus influenzae (AM Levine, personal communication). Although the overexpression of wild-type SP-D in type II pneumocytes with the SP-D-deficient mice can prevent the lipidosis and inflammatory changes [94] , the ability of overexpressed wild-type SP-D or exogenous SP-D to ameliorate these abnormalities has not yet been described. The coexisting pulmonary abnormalities also complicate the interpretation of challenge models. For example, macrophage activation might enhance killing and offset any decrease that results more directly from SP-D deficiency. SP-D deficiency modifies the host response to instilled LPS with decreased lung injury and inflammatory cell recruitment [50].",
+            "cite_spans": [
+                {
+                    "start": 223,
+                    "end": 227,
+                    "text": "[93]",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 664,
+                    "end": 668,
+                    "text": "[94]",
+                    "ref_id": "BIBREF53"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Challenge of SP-D-deficient mice"
+        },
+        {
+            "text": "Molecules that can bind to potential antigens and deliver them to macrophages and other antigen-presenting cells might contribute to the development of acquired immunity. In this regard, a few published observations suggest possible roles in the development of humoral and/or cellular immunity in response to microorganisms or complex organic antigens. For example, SP-D can decrease interleukin-2dependent T-lymphocyte proliferation [95 \u2022 ]. Interestingly, single-arm mutants were at least as potent as intact dodecamers in mediating this effect. SP-D also binds to oligosaccharides associated with dust mite allergen [96 \u2022 ], and can inhibit the binding of specific IgE to these allergens, possibly through direct, CRD-dependent binding to lymphocytes [96 \u2022 ]. Thus, alterations in the level of SP-D (or the state of oligomerization) might influence the development of immunological responses and contribute to the pathogenesis of asthma and other hypersensitivity disorders.",
+            "cite_spans": [
+                {
+                    "start": 434,
+                    "end": 439,
+                    "text": "[95 \u2022",
+                    "ref_id": null
+                },
+                {
+                    "start": 619,
+                    "end": 624,
+                    "text": "[96 \u2022",
+                    "ref_id": null
+                },
+                {
+                    "start": 754,
+                    "end": 759,
+                    "text": "[96 \u2022",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Possible roles of SP-D in acquired immunity"
+        },
+        {
+            "text": "There are other potential interplays between humoral immunity and collectins with regard to antimicrobial host defense. For example, increased glycosylation of IAV coat proteins, an adaptation that is believed to help the virus to evade antibody-mediated neutralization, is associated with increased reactivity with SP-D and other collectins [62]. Thus, the relative potential importance of antibody and collectin-mediated host defenses might be influenced by subtle variations in the structure of the microbial surface.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Possible roles of SP-D in acquired immunity"
+        },
+        {
+            "text": "There is little recent information on the developmental regulation of SP-D expression. In general, SP-D increases rapidly late in gestation [97] [98] [99] [100] . The production of SP-D increases during the culture of fetal lung explants, and expression can be increased with glucocorticoids [98, 100, 101] . The exposure of fetal rats to glucocorticoids in vivo leads to precocious expression with increased numbers of SP-D-expressing cells and increased cellular levels of SP-D message [98, 101, 102] .",
+            "cite_spans": [
+                {
+                    "start": 140,
+                    "end": 144,
+                    "text": "[97]",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 145,
+                    "end": 149,
+                    "text": "[98]",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 150,
+                    "end": 154,
+                    "text": "[99]",
+                    "ref_id": "BIBREF60"
+                },
+                {
+                    "start": 155,
+                    "end": 160,
+                    "text": "[100]",
+                    "ref_id": "BIBREF61"
+                },
+                {
+                    "start": 292,
+                    "end": 296,
+                    "text": "[98,",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 297,
+                    "end": 301,
+                    "text": "100,",
+                    "ref_id": "BIBREF61"
+                },
+                {
+                    "start": 302,
+                    "end": 306,
+                    "text": "101]",
+                    "ref_id": "BIBREF62"
+                },
+                {
+                    "start": 488,
+                    "end": 492,
+                    "text": "[98,",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 493,
+                    "end": 497,
+                    "text": "101,",
+                    "ref_id": "BIBREF62"
+                },
+                {
+                    "start": 498,
+                    "end": 502,
+                    "text": "102]",
+                    "ref_id": "BIBREF63"
+                }
+            ],
+            "ref_spans": [],
+            "section": "SP-D gene expression Developmental regulation"
+        },
+        {
+            "text": "Although SP-D is produced constitutively within the lung, protein accumulation and gene expression are inducible and increases in SP-D expression have been observed in a number of disease states or models (Tables 4 and 5 ). In general, the synthesis and secretion of SP-D increase in association with lung injury and activation of the respiratory epithelium [1] . For example, levels of SP-D mRNA and SP-D accumulation are increased within 24-72 h after intratracheal instillation of LPS [103 \u2022 ], and SP-D expression by alveolar and bronchiolar epithelial cells increases after exposure of rats to 95% O 2 for 12 h [104] . Keratinocyte growth factor (KGF) increases SP-D expression and protein production in association with pneumocyte hyperplasia and after injury caused by bleomycin [105] . In addition, the levels of SP-D can increase markedly in response to the overexpression of certain cytokines, such as interleukin-4, or in response to microbial challenge [91, 92] .",
+            "cite_spans": [
+                {
+                    "start": 358,
+                    "end": 361,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 488,
+                    "end": 494,
+                    "text": "[103 \u2022",
+                    "ref_id": null
+                },
+                {
+                    "start": 616,
+                    "end": 621,
+                    "text": "[104]",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 786,
+                    "end": 791,
+                    "text": "[105]",
+                    "ref_id": "BIBREF67"
+                },
+                {
+                    "start": 965,
+                    "end": 969,
+                    "text": "[91,",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 970,
+                    "end": 973,
+                    "text": "92]",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 205,
+                    "end": 220,
+                    "text": "(Tables 4 and 5",
+                    "ref_id": "TABREF8"
+                }
+            ],
+            "section": "Altered expression with lung injury"
+        },
+        {
+            "text": "Studies of the upstream regulatory region of the SP-D gene have demonstrated increased promoter activity in the presence of glucocorticoids, which is consistent with the findings in vivo and in lung organ culture [106] . However, no functional glucocorticoid response elements have been identified, and the effects of dexamethasone seem to be secondary and involve the effects of other transregulatory molecules.",
+            "cite_spans": [
+                {
+                    "start": 213,
+                    "end": 218,
+                    "text": "[106]",
+                    "ref_id": "BIBREF68"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Transcriptional regulation"
+        },
+        {
+            "text": "The activity of the human SP-D promoter is dependent on a conserved activator protein-1 (AP-1) element (-109) that binds to members of the fos and jun families of transcriptional factors [107] . In addition, the promoter contains multiple functional binding sites for CCAAT-enhancer-binding protein (C/EBP) transcription factors. Mutagenesis experiments suggest that these are required for basal and stimulated promoter activity, and promoter activity is markedly increased in H441 cells after co-transfection with C/EBP\u03b2 cDNA (YC He and E crouch, unpublished data). The importance of the conserved AP-1 element and the presence of multiple binding sites for C/EBP transcription factors is consistent with the observed modulation of SP-D expression in the setting of tissue injury.",
+            "cite_spans": [
+                {
+                    "start": 187,
+                    "end": 192,
+                    "text": "[107]",
+                    "ref_id": "BIBREF69"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Transcriptional regulation"
+        },
+        {
+            "text": "SP-D promoter activity is not dependent on the binding of thyroid transcription factor 1 (TTF-1) [107] . However, promoter activity is dependent on two interacting forkhead binding sites, upstream and downstream of the AP-1 element; these sites bind to hepatic nuclear factor-3\u03b1 and apparently other forkhead box proteins in H441 lung adenocarcinoma nuclear extracts [107] .",
+            "cite_spans": [
+                {
+                    "start": 97,
+                    "end": 102,
+                    "text": "[107]",
+                    "ref_id": "BIBREF69"
+                },
+                {
+                    "start": 367,
+                    "end": 372,
+                    "text": "[107]",
+                    "ref_id": "BIBREF69"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Transcriptional regulation"
+        },
+        {
+            "text": "Initial comparison of genomic and cDNA sequence suggested the existence of genetic polymorphisms in the SP-D coding sequence, including one in the N-terminal propeptide domain (Thr11 compared with Met11 in the mature protein) and three additional differences within the collagen domain at positions 102, 160, and 186 [108] . The latter substitutions are conservative to the extent that they are not expected to disrupt the collagen helix. Floros Table 5 Increased SP-D accumulation or expression in animal models",
+            "cite_spans": [
+                {
+                    "start": 317,
+                    "end": 322,
+                    "text": "[108]",
+                    "ref_id": "BIBREF70"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 446,
+                    "end": 453,
+                    "text": "Table 5",
+                    "ref_id": null
+                }
+            ],
+            "section": "Genetic variation"
+        },
+        {
+            "text": "Silicosis Rat [118] Hyperoxia Rat [104] Endotoxin (LPS) Rat [103] Challenge with P. aeruginosa Mouse [92] Challenge with IAV Mouse",
+            "cite_spans": [
+                {
+                    "start": 14,
+                    "end": 19,
+                    "text": "[118]",
+                    "ref_id": "BIBREF80"
+                },
+                {
+                    "start": 34,
+                    "end": 39,
+                    "text": "[104]",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 60,
+                    "end": 65,
+                    "text": "[103]",
+                    "ref_id": "BIBREF64"
+                },
+                {
+                    "start": 101,
+                    "end": 105,
+                    "text": "[92]",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Injury or challenge Species Reference"
+        },
+        {
+            "text": "[62]",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Injury or challenge Species Reference"
+        },
+        {
+            "text": "Challenge with Pneumocystis carinii SCID mouse [91] Rat [119] Overexpression of interleukin-4 Mouse [120] SCID, severe combined immunodeficiency. and co-workers have recently confirmed the existence of polymorphisms at positions 11 and 160 of the mature protein [109] . The potential biological significance, if any, is not known. Interestingly, the 50 kDa variant of SP-D showed O-linked glycosylation of Thr11 [32 \u2022 ], suggesting that this polymorphism might be associated with altered glycosylation. Interestingly, the 50 kDa variant was recovered as trimeric subunits, raising the possibility that differences in the glycosylation of residue 11, which is immediately N-terminal to Cys15, could influence multimerization and the capacity of SP-D to participate in bridging interactions.",
+            "cite_spans": [
+                {
+                    "start": 47,
+                    "end": 51,
+                    "text": "[91]",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 56,
+                    "end": 61,
+                    "text": "[119]",
+                    "ref_id": "BIBREF81"
+                },
+                {
+                    "start": 100,
+                    "end": 105,
+                    "text": "[120]",
+                    "ref_id": "BIBREF82"
+                },
+                {
+                    "start": 262,
+                    "end": 267,
+                    "text": "[109]",
+                    "ref_id": "BIBREF71"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Injury or challenge Species Reference"
+        },
+        {
+            "text": "There is increasing evidence that SP-D interacts specifically with a wide variety of respiratory pathogens, modulates the leukocyte response to these organisms, and participates in aspects of pulmonary immune and inflammatory regulation (Table 6) . SP-D can influence the activity of phagocytes through CRD-dependent and CRD-independent interactions. At least some of the effects of SP-D result from aggregation with enhanced binding of the agglutinated ligand to their natural 'receptors'. Although the lung is the major site of SP-D expression, it is likely that the protein has more generalized roles in host defense and the acute response to infection and tissue injury. 16 ",
+            "cite_spans": [
+                {
+                    "start": 675,
+                    "end": 677,
+                    "text": "16",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 237,
+                    "end": 246,
+                    "text": "(Table 6)",
+                    "ref_id": "TABREF10"
+                }
+            ],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Collectins and pulmonary host defense",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Crouch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "19",
+            "issn": "",
+            "pages": "177--201",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Immunomodulatory functions of surfactant",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Physiol Rev",
+            "volume": "77",
+            "issn": "",
+            "pages": "931--962",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Lung surfactant proteins involved in innate immunity",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Eggleton",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reid",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Curr Opin Immunol",
+            "volume": "11",
+            "issn": "",
+            "pages": "28--33",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Interactions of surfactant protein A with pathogens",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Haagsman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Biochim Biophys Acta",
+            "volume": "1408",
+            "issn": "",
+            "pages": "264--277",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The role of collectins in host defense",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sumiya",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Summerfield",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Semin. Liver Dis",
+            "volume": "17",
+            "issn": "",
+            "pages": "311--318",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Structural aspects of collectins and receptors for collectins",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Holmskov",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "",
+            "volume": "199",
+            "issn": "",
+            "pages": "165--189",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Immunocytochemical localization of surfactant protein D (SP-D) in type II cells, Clara cells, and alveolar macrophages of rat lung",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Voorhout",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Veenendaal",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kuroki",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ogasawara",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Van Golde",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Geuze",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J Histochem Cytochem",
+            "volume": "40",
+            "issn": "",
+            "pages": "1589--1597",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Surfactant protein D: subcellular localization in nonciliated bronchiolar epithelial cells",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Parghi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Kuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Persson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Am J Physiol",
+            "volume": "263",
+            "issn": "1",
+            "pages": "60--66",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Localization and developmental expression of surfactant proteins D and A in the respiratory tract of the mouse",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Akiyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hawgood",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Pediatr Res",
+            "volume": "39",
+            "issn": "",
+            "pages": "930--937",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Localiza-\u2022 tion of lung surfactant protein D (SP-D) on mucosal surfaces in human tissues",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Madsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kliem",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Tornoe",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Skjodt",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Koch",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Holmskov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Immunol",
+            "volume": "164",
+            "issn": "",
+            "pages": "5866--5870",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "This recent study was the first to systematically investigate the extrapulmonary expression of SP-D in human tissues",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Immunolocalization of SP-D in human secretory tissues",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hull",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Stahlman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Grey",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wert",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Whitsett",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Surfactant protein A and D expression in the porcine Eustachian tube",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Paananen",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Glumoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hallman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "FEBS Lett",
+            "volume": "452",
+            "issn": "",
+            "pages": "141--144",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Expression of hydrophilic surfactant proteins by mesentery cells in rat and man",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Chailley-Heu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rubio",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Rougier",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ducroc",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Barlier-Mur",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ronco",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Bourbon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Biochem J",
+            "volume": "328",
+            "issn": "",
+            "pages": "251--256",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Mouse surfactant protein-D. cDNA cloning, characterization, and gene localization to chromosome 14",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Motwani",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Dowler",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Tauber",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Sastry",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J Immunol",
+            "volume": "95",
+            "issn": "",
+            "pages": "5671--5677",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Surfactant proteins A (SP-A) and D (SP-D): levels in human amniotic fluid and localization in the fetal membranes",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Miyamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Malhotra",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hoppe",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reid",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Phizackerley",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Macpherson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lopez",
+                    "middle": [],
+                    "last": "Bernal",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Biochim Biophys Acta",
+            "volume": "1210",
+            "issn": "",
+            "pages": "303--307",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Antiviral activity of bovine collectins against rotaviruses",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Reading",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Holmskov",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Anders",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Gen Virol",
+            "volume": "79",
+            "issn": "",
+            "pages": "2255--2263",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Recombinant SP-D carbohydrate recognition domain is a chemoattractant for human neutrophils",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Griffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Senior",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Longmore",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Moxley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Am J Physiol (Lung Cell Mol Physiol",
+            "volume": "276",
+            "issn": "",
+            "pages": "131--136",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Interactions of pulmonary Surfactant Protein D (SP-D) with human blood leukocytes",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Persson",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Griffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Senior",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "12",
+            "issn": "",
+            "pages": "410--415",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Surfactant proteins A and D specifically stimulate directed actin-based responses in alveolar macrophages",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Tino",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Am J Physiol (Lung Cell Mol Physiol)",
+            "volume": "276",
+            "issn": "",
+            "pages": "164--174",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Rat surfactant protein D enhances the production of oxygen radicals by rat alveolar macrophages",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Van Iwaarden",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shimizu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Van Golde",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Voelker",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Van Golde",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Biochem J",
+            "volume": "286",
+            "issn": "",
+            "pages": "5--8",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Effects of endotoxin on surfactant protein A and D stimulation of NO production by alveolar macrophages",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Zlogar",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zlogar",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Restrepo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Am J Physiol (Lung Cell Mol Physiol",
+            "volume": "276",
+            "issn": "",
+            "pages": "650--658",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Induction of matrix metalloproteinase biosynthesis in human alveolar macrophages exposed to",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Trask",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Malone",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Welgus",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Lum",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Shapiro",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Surfactant Protein D (SP-D): possible roles in pulmonary host defense",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Kuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Persson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Lung Surfactant: Basic Research in the Pathogenesis of Lung Disorders",
+            "volume": "",
+            "issn": "",
+            "pages": "132--140",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Binding of surfactant protein D (SP-D) to membrane glycolipids on alveolar macrophages",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Inhibitory effect of \u2022\u2022 pulmonary surfactant proteins A and D on allergen-induced lymphocyte proliferation and histamine release in children with asthma",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Shieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "You",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Lei",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reid",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "158",
+            "issn": "",
+            "pages": "510--518",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Surfactant protein D binding to alveolar macrophages",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Miyamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Leigh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hopkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lopez",
+                    "middle": [],
+                    "last": "Bernal",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Reid",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Biochem J",
+            "volume": "300",
+            "issn": "",
+            "pages": "237--242",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Cloning of gp-340, a putative opsonin receptor for lung surfactant protein D",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Holmskov",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mollenhauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Madsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vitved",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gronlund",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Tornoe",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kliem",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kbm",
+                    "middle": [],
+                    "last": "Reid",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Poustka",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Skjodt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "96",
+            "issn": "",
+            "pages": "10794--10799",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Isolation and characterization of a new member of the scavenger receptor superfamily, glycoprotein-340 (gp-340), as a lung Surfactant Protein-D binding molecule",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Holmskov",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lawson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Teisner",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Tornoe",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Willis",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Morgan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Koch",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kbm",
+                    "middle": [],
+                    "last": "Reid",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J Biol Chem",
+            "volume": "272",
+            "issn": "",
+            "pages": "13743--13749",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Gp340 was the first protein shown to bind to SP-D in a CRD-independent manner. Although it can be found on the surface of alveolar macrophages, it remains uncertain whether it can function as a cellular receptor",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Binding and uptake of surfactant \u2022 protein D by freshly isolated rat alveolar type II cells",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Herbein",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Savov",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Am J Physiol Lung Cell Mol Physiol",
+            "volume": "278",
+            "issn": "",
+            "pages": "830--839",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "This study describes the direct binding of SP-D to type II pneumocytes. The mechanism appears distinct from that observed for alveolar macrophages",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "This study describes specific ultrastructural alterations in the organization of phospholipid mixtures containing phosphatidylinositol. Similar tubular structures are found in type II cell cultures",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Poulain",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Akiyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Goerke",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Dobbs",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hawgood",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "20",
+            "issn": "",
+            "pages": "1049--1058",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Collectins and pulmonary innate immunity",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hartshorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ofek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Immunol Rev",
+            "volume": "173",
+            "issn": "",
+            "pages": "52--65",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Nitration of surfactant protein A results in decreased ability to aggregate lipids",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Haddad",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ischiropoulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Matalon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Am J Physiol (Lung Cell Mol Physiol",
+            "volume": "270",
+            "issn": "",
+            "pages": "281--288",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Nitrated SP-A does not enhance adherence of Pneumocystis carinii to alveolar macrophages",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Kachel",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Matalon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Am J Physiol (Lung Cell Mol Physiol)",
+            "volume": "275",
+            "issn": "",
+            "pages": "1031--1039",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Increased suscepti-\u2022 bility of diabetic mice to influenza virus infection: compromise of collectin-mediated host defence of the lung by glucose?",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Reading",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Allison",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Anders",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Virol",
+            "volume": "72",
+            "issn": "",
+            "pages": "6884--6887",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Is uncontrolled diabetes mellitus associated with defective collectin function?",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Surfactant protein-D regulates surfactant phospholipid home ostasis in vivo",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Korfhagen",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sheftelyevich",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Burhans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Bruno",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Ross",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Wert",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Stahlmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Jobe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ikegami",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Whitsett",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Fisher",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Biol Chem",
+            "volume": "273",
+            "issn": "",
+            "pages": "28438--28443",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "This paper and the following paper by Botas and coworkers [86 \u2022 ] describe the phenotype of SP-D deficient transgenic mice",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Altered surfactant homeostasis and alveolar type II cell morphology in mice lacking surfactant protein D",
+            "authors": [
+                {
+                    "first": "\u2022 J",
+                    "middle": [],
+                    "last": "Carlson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gillespie",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Epstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hawgood",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "95",
+            "issn": "",
+            "pages": "11869--11874",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Increased metalloproteinase activity, oxidant production, and emphysema in surfactant protein D gene-inactivated mice",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Wert",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yoshida",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ikegami",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Ross",
+                    "suffix": ""
+                },
+                {
+                    "first": "\u2022",
+                    "middle": [],
+                    "last": "Fisher",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Jh",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Korfhagen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Whitsett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "97",
+            "issn": "",
+            "pages": "5972--5977",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Altered surfactant function and structure in SP-A gene targeted mice",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Korfhagen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Bruno",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Ross",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Huelsman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ikegami",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Jobe",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Wert",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Stripp",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Morris",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Glasser",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Bachurski",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Iwamoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Whitsett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "93",
+            "issn": "",
+            "pages": "9594--9599",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Surfactant metabolism in surfactant protein A-deficient mice",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ikegami",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Korfhagen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Bruno",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Whitsett",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Jobe",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Am J Physiol (Lung Cell Mol Physiol)",
+            "volume": "272",
+            "issn": "",
+            "pages": "479--485",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Surfactant protein A (SP-A) gene targeted mice",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Korfhagen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Whitsett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Biochim Biophys Acta",
+            "volume": "1408",
+            "issn": "",
+            "pages": "296--302",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "P. carinii induces selective alterations in component expression and biophysical activity of lung surfactant",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Atochina",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Beers",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Scanlon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Preston",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Beck",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Am J Physiol Lung Cell Mol Physiol",
+            "volume": "278",
+            "issn": "",
+            "pages": "599--609",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Interleukin-4 enhances pulmonary clearance of Pseudomonas aeruginosa",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jain-Vora",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Chroneos",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Ross",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hull",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Whitsett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Infect Immun",
+            "volume": "66",
+            "issn": "",
+            "pages": "4229--4236",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Surfactant Protein-D modulates lung inflammation with respiratory syncytial virus infection in vivo",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gwozdz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fisher",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Whitsett",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Korfhagen",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Pulmonary-specific expression of SP-D corrects pulmonary lipid accumulation in SP-D gene-targeted mice",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Fisher",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sheftelyevich",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fligiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Mccormack",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Korfhagen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Whitsett",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ikegami",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Am J Physiol Lung Cell Mol Physiol",
+            "volume": "278",
+            "issn": "",
+            "pages": "365--373",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "\u2022 Recombinant rat surfactant-associated protein D inhibits human T lymphocyte proliferation and IL-2 production",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Borron",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Lewis",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Possmayer",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Fraher",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Immunol",
+            "volume": "161",
+            "issn": "",
+            "pages": "4599--4603",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "This paper was the first to describe direct, inhibitory effects of SP-D on the stimulated proliferation of blood lymphocytes",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Interaction of \u2022 human lung surfactant proteins A and D with mite (Dermatophagoides pteronyssinus) allergens",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Kishore",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Strong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kbm",
+                    "middle": [],
+                    "last": "Reid",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Clin Exp Immunol",
+            "volume": "106",
+            "issn": "",
+            "pages": "367--373",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "This study was the first to suggest that interactions of SP-D with glycoconjugates on particulate allergens might influence the immune response",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "Developmental expression of pulmonary surfactant protein D (SP-D)",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Rust",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Mariencheck",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Parghi",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Persson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "5",
+            "issn": "",
+            "pages": "13--18",
+            "other_ids": {}
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Modulation of surfactant protein D expression by glucocorticoids in fetal rat lung",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Mariencheck",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Crouch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "10",
+            "issn": "",
+            "pages": "419--429",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Ontogeny of surfactant apoprotein D, SP-D, in the rat lung",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ogasawara",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kuroki",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shiratori",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shimizu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Miyamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Akino",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Biochim Biophys Acta",
+            "volume": "1083",
+            "issn": "",
+            "pages": "252--256",
+            "other_ids": {}
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Regulation of surfactant protein D in human fetal lung",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Dulkerian",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Gonzales",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ning",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ballard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "15",
+            "issn": "",
+            "pages": "781--786",
+            "other_ids": {}
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Regulation of surfactant protein D expression by glucocorticoids in vitro and in vivo",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Deterding",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shimizu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Fisher",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Shannon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "10",
+            "issn": "",
+            "pages": "30--37",
+            "other_ids": {}
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Pre-and postnatal stimulation of pulmonary surfactant protein D by in vivo dexamethasone treatment of rats",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ogasawara",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kuroki",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tsuzuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ueda",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Misaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Akino",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Life Sci",
+            "volume": "50",
+            "issn": "",
+            "pages": "1761--1767",
+            "other_ids": {}
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "Surfactant proteins A \u2022 and D increase in response to intratracheal lipopolysaccharide",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Mcintosh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Swyers",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Fisher",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "15",
+            "issn": "",
+            "pages": "509--519",
+            "other_ids": {}
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "This important paper suggests that SP-A and SP-D participate in the acute response to lung injury",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF66": {
+            "ref_id": "b66",
+            "title": "Brief exposure to 95% oxygen alters surfactant protein D and mRNA in adult rat alveolar and bronchiolar epithelium",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Aderibigbe",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mercer",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Auten",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "20",
+            "issn": "",
+            "pages": "219--227",
+            "other_ids": {}
+        },
+        "BIBREF67": {
+            "ref_id": "b67",
+            "title": "KGF increases SP-A and SP-D mRNA levels and secretion in cultured rat alveolar type II cells",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mccormick-Shannon",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Voelker",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mason",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "18",
+            "issn": "",
+            "pages": "168--178",
+            "other_ids": {}
+        },
+        "BIBREF68": {
+            "ref_id": "b68",
+            "title": "Characterization of the human Surfactant Protein D promoter: transcriptional regulation of SP-D gene expression by glucocorticoids",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Rust",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bingle",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Mariencheck",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Persson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Crouch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "14",
+            "issn": "",
+            "pages": "121--130",
+            "other_ids": {}
+        },
+        "BIBREF69": {
+            "ref_id": "b69",
+            "title": "Proximal promotor of the Surfactant Protein D (SP-D) gene: regulatory role of AP-1, forkhead box, and GT-box binding proteins",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Rust",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Spaite",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Brody",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Biol Chem",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "Genomic organization of human surfactant protein D (SP-D). SP-D is encoded on chromosome 10q22.2-23.1",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Rust",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Veile",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Donis-Keller",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Grosso",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Biol Chem",
+            "volume": "268",
+            "issn": "",
+            "pages": "2976--2983",
+            "other_ids": {}
+        },
+        "BIBREF71": {
+            "ref_id": "b71",
+            "title": "Novel, non-radioactive, simple and multiplex PCR-cRFLP methods for genotyping human SP-A and SP-D marker alleles",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Diangelo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Phillips",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ramet",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Floros",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Dis Markers",
+            "volume": "15",
+            "issn": "",
+            "pages": "269--281",
+            "other_ids": {}
+        },
+        "BIBREF72": {
+            "ref_id": "b72",
+            "title": "Recognition of Klebsiella pneumoniae by pulmonary C-type lectins",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ofek",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kabha",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Keisari",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schlepper-Schaefer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Abraham",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mcgregor",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Crouch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nova Acta Leopold",
+            "volume": "75",
+            "issn": "",
+            "pages": "43--54",
+            "other_ids": {}
+        },
+        "BIBREF73": {
+            "ref_id": "b73",
+            "title": "Deficient hydrophilic lung surfactant proteins A and D with normal surfactant phospholipid molecular species in cystic fibrosis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Postle",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mander",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kbm",
+                    "middle": [],
+                    "last": "Reid",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moustaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Warner",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "20",
+            "issn": "",
+            "pages": "90--98",
+            "other_ids": {}
+        },
+        "BIBREF74": {
+            "ref_id": "b74",
+            "title": "Serial changes in surfactant-associated proteins in lung and serum before and after onset of ARDS",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Greene",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Steinberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Ruzinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Caldwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hull",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Whitsett",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Akino",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kuroki",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nagae",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hudson",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "160",
+            "issn": "",
+            "pages": "1843--1850",
+            "other_ids": {}
+        },
+        "BIBREF75": {
+            "ref_id": "b75",
+            "title": "Decreased contents of Surfactant Proteins A and D in BAL fluids of healthy smokers",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Honda",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Takahashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kuroki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Akino",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abe",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Chest",
+            "volume": "109",
+            "issn": "",
+            "pages": "1006--1009",
+            "other_ids": {}
+        },
+        "BIBREF76": {
+            "ref_id": "b76",
+            "title": "Surfactant Proteins A and D in premature baboons with chronic lung injury (bronchopulmonary dysplasia). Evidence for an inhibition of secretion",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Awasthi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Coalson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "160",
+            "issn": "",
+            "pages": "942--949",
+            "other_ids": {}
+        },
+        "BIBREF77": {
+            "ref_id": "b77",
+            "title": "Deficiencies in lung Surfactant Proteins A and D are associated with lung infection in very premature neonatal baboons",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Awasthi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Coalson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Yoder",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF78": {
+            "ref_id": "b78",
+            "title": "Pulmonary surfactant protein D in sera and bronchoalveolar lavage fluids",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Honda",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kuroki",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Matsuura",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nagae",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Takahashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Akino",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abe",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "95",
+            "issn": "",
+            "pages": "1860--1866",
+            "other_ids": {}
+        },
+        "BIBREF79": {
+            "ref_id": "b79",
+            "title": "Surfactant protein-A concentration in bronchoalveolar lavage fluids of patients with pulmonary alveolar proteinosis",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Honda",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Takahashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Shijubo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kuroki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Akino",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Chest",
+            "volume": "93",
+            "issn": "",
+            "pages": "496--499",
+            "other_ids": {}
+        },
+        "BIBREF80": {
+            "ref_id": "b80",
+            "title": "Surfactant protein D. Increased accumulation in silica-induced pulmonary lipoproteinosis",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Persson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Parghi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Am J Pathol",
+            "volume": "139",
+            "issn": "",
+            "pages": "765--776",
+            "other_ids": {}
+        },
+        "BIBREF81": {
+            "ref_id": "b81",
+            "title": "Surfactant Protein-D mediates aggregation of Pneumocystis carinii",
+            "authors": [
+                {
+                    "first": "S-J",
+                    "middle": [],
+                    "last": "Yong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Vuk-Pavlovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Crouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Limper",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Am J Respir Cell Mol Biol",
+            "volume": "157",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF82": {
+            "ref_id": "b82",
+            "title": "IL-4 increases surfactant and regulates metabolism in vivo",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ikegami",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Whitsett",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chroneos",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Ross",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Reed",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Bachurski",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Jobe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Am J Physiol Lung Cell Mol Physiol",
+            "volume": "278",
+            "issn": "",
+            "pages": "75--80",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Molecular structure of SP-D. (a) Schematic diagram illustrating the structure of SP-D dodecamers, which consist of four trimeric subunits, and SP-D trimers. (b) Quick-freeze deep-etch image of human SP-D dodecamers, SP-D multimers, and the SP-D binding protein gp-340 (kindly provided by John Heuser, Washington University School of Medicine, St Louis, Missouri, USA).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "For example, Ofek et al have examined the effects of SP-D, LPS, and LPS-coated latex beads on the production of nitric oxide by alveolar macrophage-like cells (I Ofek, A Mesika, M Kalina, Y Keisari, D Chang, D McGregor and EC Crouch, manuscript submitted). Under conditions in which SP-D, LPS, latex beads, or latex beads coated with SP-D or LPS were no more than minimally stimulatory, the opsonization of LPS-coated latex beads with SP-D resulted in a marked increase in NO production (I Ofek, A Mesika, M Kalina, Y Keisari, D Chang, D McGregor and EC Crouch, manuscript submitted).Although these effects can be abrogated with competing sugars, it is unclear whether the inhibitory effect of competing sugars involves the disruption of the interaction of SP-D with the ligand, the host cell, or both. All the effects could be secondary to altered presentation of the aggregated particles to receptors for the particulate ligand on the host cell.Thus, it is unclear whether one needs to invoke the participation of an SP-D receptor for many of its functions. It is well established that the binding of SP-D to IAV particles leads to aggregation-dependent enhancement of viral binding to neutrophils, with an increased oxidative response[45]. These effects involve the natural receptors for the virus on the neutrophil. Significantly, the effects on neutrophil function are blocked by enzymic destruction of the sialic acid-binding sites for the HA on the neutrophil membrane [63], suggesting that the effects of SP-D do not require cellular recognition of the bound protein.Aggregation might also be important for mediating the interactions of neutrophils with some bacteria[42].",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "variety of factors can modulate the lectin activity of SP-D in vitro and might influence SP-D activity in vivo. Selected examples are listed in",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Van Eijk M, Haagsman HP, Skinner T, Archibald A, Reid KB, Lawson \u2022 PR, Archibold A: Porcine lung surfactant protein D: complementary DNA cloning, chromosomal localization, and tissue distribution. J Immunol 2000, 164:1442-1450. The structure of porcine SP-D is different from previously described SP-D molecules. The pig protein contains a cysteine within the collagen domain and has an additional potential site of N-linked glycosylation within the CRD. 28. Ogasawara Y, Voelker DR: The role of the amino-terminal domain and the collagenous region in the structure and the function of rat surfactant protein D. J Biol Chem 1995, 95:19052-19058.29. Brown-Augsburger P, Chang D, Rust K, Crouch EC: Biosynthesis of surfactant protein D. Contributions of conserved NH 2 -terminal cysteine residues and collagen helix formation to assembly and secretion. J Biol Chem 1996, 271:18912-18919. 30. Brown-Augsburger P, Hartshorn K, Chang D, Rust K, Fliszar C, Welgus HG, Crouch EC: Site-directed mutagenesis of Cys-15 and Cys-20 of pulmonary surfactant protein D. Expression of a trimeric protein with altered anti-viral properties. J Biol Chem 1996, 271: 13724-13730. 31. Leth-Larsen R, Holmskov U, Hojrup P: Structural characterization of human and bovine lung surfactant protein D. Biochem J 1999, 343:645-652. 32. Mason RJ, Nielsen LD, Kuroki Y, Matsuura E, Freed JH, Shannon JM: A \u2022 50-kDa variant form of human surfactant protein D. Eur Respir J 1998, 12:1147-1155. This study demonstrates potential heterogeneity in the structure of human SP-D. O-glycosylation within the amino-terminal peptide domain may influence the oligomerization of trimeric subunits. 33. Hartshorn KL, White MR, Shepherd V, Reid K, Jensenius JC, Crouch EC: Mechanisms of anti-influenza activity of Surfactant Proteins A and D: comparison with serum collectins. Am J Physiol (Lung Cell Mol Physiol) 1997, 17:L1156-L1166. 34. Persson A, Chang D, Crouch E: Surfactant protein D is a divalent cation-dependent carbohydrate-binding protein. J Biol Chem 1990, 265:5755-5760. 35. Lim BL, Wang JY, Holmskov U, Hoppe HJ, Reid KB: Expression of the carbohydrate recognition domain of lung surfactant protein D and demonstration of its binding to lipopolysaccharides of Gramnegative bacteria. Biochem Biophys Res Commun 1994, 202: 1674-1680. 36. Persson AV, Gibbons BJ, Shoemaker JD, Moxley MA, Longmore WJ: The major glycolipid recognized by SP-D in surfactant is phosphatidylinositol. Biochemistry 1992, 31:12183-12189. 37. Ogasawara Y, Kuroki Y, Akino T: Pulmonary surfactant protein D specifically binds to phosphatidylinositol. J Biol Chem 1992, 267:21244-21249. 38. Ogasawara Y, McCormack FX, Mason RJ, Voelker DR: Chimeras of surfactant proteins A and D identify the carbohydrate recognition domains as essential for phospholipid interaction. J Biol Chem 1994, 269:29785-29792. 39. Kuroki Y, Gasa S, Ogasawara Y, Shiratori M, Makita A, Akino T: Binding specificity of lung surfactant protein SP-D for glucosylceramide. Biochem Biophys Res Commun 1992, 187:963-969. 40. Sano H, Kuroki Y, Honma T, Ogasawara Y, Sohma H, Voelker DR, Akino T: Analysis of chimeric proteins identifies the regions in the carbohydrate recognition domains of rat lung collectins that are essential for interactions with phospholipids, glycolipids, and alveolar Type II cells. J Biol Chem 1998, 273:4783-4789. 41. Kuan SF, Rust K, Crouch E: Interactions of surfactant protein D with bacterial lipopolysaccharides. Surfactant protein D is an Escherichia coli-binding protein in bronchoalveolar lavage. J Clin Invest 1992, 90:97-106. 42. Hartshorn KL, Crouch E, White MR, Colamussi MI, Kakkanatt A, Tauber B, Shepherd V, Sastry K: Pulmonary surfactant proteins A and D enhance neutrophil uptake of bacteria. Am J Physiol (Lung Cell Mol Physiol) 1998, 274:L958-L969. 43. Ferguson JS, Voelker DR, McCormack FX, Schlesinger LS: Surfac-\u2022\u2022 tant protein D binds to Mycobacterium tuberculosis bacilli and lipoarabinomannan via carbohydrate-lectin interactions resulting in reduced phagocytosis of the bacteria by macrophages. J Immunol 1999, 163:312-321. This outstanding paper describes the interactions of SP-D with a specific mycobacterial glycolipid. Although SP-D is a potent mycobacterial agglutinin, it inhibits internalization by macrophages. 44. Greene KE, Voelker D: Interactions of SP-A and SP-D with LPS [abstract]. Am J Respir Cell Mol Biol 1998, 157:A562. 45. Ofek I, Crouch E: Interactions of microbial glycoconjugates with collectins: implications for pulmonary host defense. In Glycomicrobiology. Edited by Doyle RJ. London: Plenum Press; 2000. 46. Kabha K, Schmegner J, Keisari Y, Parolis H, Schlepper-Schaefer J, Ofek I: SP-A enhances phagocytosis of Klebsiella by interaction with capsular polysaccharides and alveolar macrophages. Am J Physiol (Lung Cell Mol Physiol) 1997, 272:L344-L352. 47. Restrepo C, Dong Q, Savov J, Mariencheck W, Wright JR: Surfactant \u2022 Protein D stimulates phagocytosis of Pseudomonas aeruginosa by alveolar macrophages. Am J Respir Cell Mol Biol 1998,",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Gram-negative bacteriaSP-D binds to many -if not most -species of Gram-negative bacteria including such important pulmonary pathogens as Pseudomonas aeruginosa, Klebsiella pneumoniae, and Haemophilus influenzae [41] (Table 2). However, SP-D also binds to certain Gram-positive organisms including strains of Streptococcus pneumoniae and Staphylococcus aureus[42], and to mycobacteria [43 \u2022\u2022 ].",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Interactions of SP-D with bacterial glycoconjugates",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "antigens. Human SP-A, but not SP-D, increases the uptake and deacylation of tritiated E. coli LPS by isolated alveolar macrophages[52], but the biological significance of this finding is uncertain.Pneumocystis SP-D binds in a CRD-dependent manner to gpA (gp-140), a heavily mannosylated glycoprotein associated with the trophozoites and cysts of Pneumocystis carinii [53]. SP-D can also bind to cell wall \u03b2-glucans [54]. SP-D binding enhances the association of Pneumocystis carinii with rat alveolar macrophages; however, the bound organisms are not efficiently internalized or killed in vitro [53]. SP-D interacts with most of the clinically important fungal pathogens including Cryptococcus neoformans, Aspergillus fumigatus, and Candida albicans [55-57]. We have also observed binding to clinical isolates of Histoplasma capsulatum and Blastomyces dermatitidis (SF Kuan, S Moser and E Crouch, unpublished data). In all cases reported so far, binding is accompanied by agglutination. In particular, SP-D efficiently agglutinates Aspergillus fumigatus conidia [55] and Candida albicans [57]. Although SP-D also shows CRD-dependent agglutination of unencapsulated forms of Cryptococcus neoformans, no significant binding to encapsulated organisms was observed [56].There is still relatively little information on the mechanism of SP-D binding to fungi. However, SP-D shows CRDdependent binding to the N-linked sugars of specific cell wall glycoproteins, including major glycoprotein allergens, of Aspergillus fumigatus[55]. Because SP-D shows lectin-dependent binding to wild-type Saccharomyces cerevisiae, as well as to mutants with low levels of mannosylphosphate in the cell wall, the interactions probably do not involve N-linked phosphomannan sugars[58]. The observation that SP-D interacts with \u03b2-glucans on the surface of Pneumocystis [54] suggests that these glycoconjugates, which are abundant in the cell walls of true fungi, could serve as ligands for SP-D.As for bacteria, the effects of SP-D binding on the phagocytic response to fungi are somewhat controversial. Human SP-D enhances the oxidative response to, and internalization and killing of, Aspergillus fumigatus conidia by human alveolar macrophages and blood neutrophils [59 \u2022 ]. However, other investigators observed binding of rat and human SP-D to conidia but found no enhancement of internalization by rat alveolar macrophages [60]. Furthermore, rat SP-D inhibits the phagocytosis of Candida albicans by these cells[57].",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "A virus (IAV) in vitro[61 \u2022  ]. This activity is calcium-dependent, inhibited by carbohydrate ligands, and involves the binding of SP-D to high-mannose oligosaccharides associated with the HA 1 domain of the hemagglutinin (HA) molecule. Because the high-mannose oligosaccharide on the HA 1 domain overlies the sialic acid-binding pocket (the cell attachment site) of the HA, binding can interfere sterically with HA activity and cellular attachment. SP-D also binds to the neuraminidase of IAV and inhibits neuraminidase enzyme activity [62].SP-D induces massive aggregation of IAV particles [18,33,61 \u2022 ,63]. Viral aggregation is calcium-dependent, inhibited by competing sugars, and directly correlated with the multimerization state of SP-D. Highly multimerized preparations of SP-D are significantly more potent than dodecamers. In particular, minimal agglutination is induced with trimeric CRDs. Massive agglutination of organisms could contribute to lung host defense by promoting airway mucociliary clearance, but it might also influence the internalization by phagocytic cells.SP-D enhances the binding and uptake of IAV by neutrophils [33,61 \u2022 ,63], and these effects are highly dependent on the extent of multimerization of SP-D and its ability to agglutinate the viral particles [18,30,33]. The enhancement of viral binding and uptake is accompanied by attachment of large aggregates of virus to the neutrophil, and the binding of IAV or SP-D-IAV aggregates is abrogated by pretreatment of the phagocyte with neuraminidase [63]. Thus, viral internalization involves enhanced binding of the virus to sialylated glycoconjugate ligands on the neutrophil surface. SP-D also potentiates IAV-induced hydrogen peroxide responses in neutrophils, and protects neutrophils from IAV-induced inhibition of respiratory burst responses. Interestingly, SP-D does not increase the uptake of IAV by rat alveolar macrophages",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Similar structures have been identified in association with type II cells in culture, and in alveolar proteinosis lavage. In addition, Persson et al demonstrated the aggregation of PI-containing liposomes [36].",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF7": {
+            "text": "Potential modulation of SP-D function",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF8": {
+            "text": "Potential alterations in human disease",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF9": {
+            "text": ". Fisher JH, Mason R: Expression of pulmonary Surfactant Protein D in rat gastric mucosa. Am J Respir Cell Mol Biol 1995, 12:13-18. 17. Shimizu H, Fisher JH, Papst P, Benson B, Lau K, Mason RJ, Voelker DR: Primary structure of rat pulmonary surfactant protein D. cDNA and deduced amino acid sequence. J Biol Chem 1992, 267:1853-1857.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF10": {
+            "text": "Potential functional roles suggested by published studies in vitro and in vivoAnti-inflammatory Regulation of inflammatory response to microorganisms and microbial products'Neutralization' of LPS/altered presentation of LPS to host cells Regulation of pulmonary oxidant metabolism Antimicrobial Enhanced opsonization and killing of some organisms Decreased internalization of some intracellular pathogens Enhanced microbial agglutination with enhanced physical or cellular clearance Enhanced inflammatory response to SP-D/microbial complexes Altered microbial growth Immunomodulatory Decreased proliferative response of lymphocytes to various mitogens Altered presentation of antigens to specifically sensitized cells Proinflammatory/repair Enhanced directed migration or airspace retention of phagocytes Altered macrophage production of metalloproteinases Surfactant homeostasis Altered spatial organization of PI-enriched sub-fractions of surfactant lipid Normal cellular uptake and metabolism of surfactant lipid 18. Hartshorn K, Chang D, Rust K, Crouch EC: Interactions of recombinant human pulmonary Surfactant Protein D and SP-D multimers with influenza A. Am J Physiol (Lung Cell Mol Physiol) 1996, 271: L753-L762. 19. Ng KK, Drickamer K, Weis WI: Structural analysis of monosaccharide recognition by rat liver mannose-binding protein. J Biol Chem 1996, 271:663-674. 20. Weis WI, Drickamer K: Structural basis of lectin-carbohydrate recognition. Annu Rev Biochem 1996, 65:441-473. 21. Hakansson K, Lim NK, Hoppe HJ, Reid KB: Crystal structure of the \u2022 trimeric alpha-helical coiled-coil and the three lectin domains of human lung surfactant protein D. Struct Fold Des 1999, 7:255-264. This paper describes the crystal structure of the neck and CRD domains of SP-D. The study confirmed the structural similarities between mannose binding lectin and SP-D and definitively demonstrated the coiled-coil conformation of the trimeric neck domain. 22. Ogasawara Y, Voelker DR: Altered carbohydrate recognition speci-\u2022 ficity engineered into Surfactant Protein D reveals different binding mechanisms for phosphatidylinositol and glucosylceramide. J Biol Chem 1995, 270:14725-14732. This paper was the first to suggest that CRD sequences distinct from those implicated in saccharide binding may contribute to interactions with specific SP-D ligands. 23. Ogasawara Y, Hobo S, Kuroki Y, Voelker DR: Essential domains of Human Surfactant Protein D involved in phosphatidylinositol binding [abstract]. Am J Respir Cell Mol Biol 1998, 157:A562. 24. Saitoh M, Sano H, Chiba H, Murakami S, Iwaki D, Sohma H, Voelker DR, Akino T, Kuroki Y: Importance of the carboxy-terminal 25 amino acid residues of lung collectins in interactions with lipids and alveolar type II cells. Biochemistry 2000, 39:1059-1066. 25. Kishore U, Wang JY, Hoppe HJ, Reid KBM: The alpha-helical neck region of human Surfactant Protein D is essential for the binding of the carbohydrate recognition domains to lipopolysacharides and phospholipids. Biochem J 1996, 318:505-511. 26. Hoppe HJ, Barlow PN, Reid KB: A parallel three stranded alphahelical bundle at the nucleation site of collagen triple-helix formation. FEBS Lett 1994, 344:191-195.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "This paper was the first to definitively demonstrate a classical opsonic activity of SP-D. The studies further suggest the existence of an opsonic receptor on alveolar macrophages. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        }
+    ]
+}

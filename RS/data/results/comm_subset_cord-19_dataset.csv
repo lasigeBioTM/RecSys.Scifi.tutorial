@@ -1,0 +1,521 @@
+0,CHEBI_36976,1,nucleotide,2004
+0,CHEBI_48341,1,dimethoxymethane,2004
+0,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+0,DOID_2945,1,severe acute respiratory syndrome,2004
+1,CHEBI_36976,1,nucleotide,2004
+1,CHEBI_48341,1,dimethoxymethane,2004
+1,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+1,DOID_2945,1,severe acute respiratory syndrome,2004
+2,CHEBI_36976,1,nucleotide,2004
+2,CHEBI_48341,1,dimethoxymethane,2004
+2,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+2,DOID_2945,1,severe acute respiratory syndrome,2004
+3,CHEBI_36976,1,nucleotide,2004
+3,CHEBI_48341,1,dimethoxymethane,2004
+3,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+3,DOID_2945,1,severe acute respiratory syndrome,2004
+4,CHEBI_36976,1,nucleotide,2004
+4,CHEBI_48341,1,dimethoxymethane,2004
+4,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+4,DOID_2945,1,severe acute respiratory syndrome,2004
+5,CHEBI_36976,1,nucleotide,2004
+5,CHEBI_48341,1,dimethoxymethane,2004
+5,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+5,DOID_2945,1,severe acute respiratory syndrome,2004
+6,CHEBI_36976,1,nucleotide,2004
+6,CHEBI_48341,1,dimethoxymethane,2004
+6,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+6,DOID_2945,1,severe acute respiratory syndrome,2004
+7,CHEBI_36976,1,nucleotide,2004
+7,CHEBI_48341,1,dimethoxymethane,2004
+7,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+7,DOID_2945,1,severe acute respiratory syndrome,2004
+8,CHEBI_16044,1,L-methionine residue,2018
+8,CHEBI_18111,1,ribosomal RNA,2018
+8,CHEBI_24433,1,group,2018
+8,CHEBI_25016,1,lead atom,2018
+8,CHEBI_28515,1,acetoacetamide,2018
+8,CHEBI_30216,1,alpha-particle,2018
+8,CHEBI_33281,1,antimicrobial agent,2018
+8,CHEBI_33341,1,titanium atom,2018
+8,CHEBI_33697,1,ribonucleic acid,2018
+8,CHEBI_33731,1,cluster,2018
+8,CHEBI_34935,1,propyzamide,2018
+8,CHEBI_35640,1,adrenergic uptake inhibitor,2018
+8,CHEBI_36976,1,nucleotide,2018
+8,CHEBI_50906,1,role,2018
+8,CHEBI_84123,1,advanced glycation end-product,2018
+8,DOID_0080815,1,childhood-onset asthma,2018
+8,DOID_10754,1,otitis media,2018
+8,DOID_1485,1,cystic fibrosis,2018
+8,DOID_2275,1,pharyngitis,2018
+8,DOID_2723,1,dermatitis,2018
+8,DOID_2841,1,asthma,2018
+8,DOID_3083,1,chronic obstructive pulmonary disease,2018
+8,DOID_4,1,disease,2018
+8,DOID_4481,1,allergic rhinitis,2018
+8,DOID_4483,1,rhinitis,2018
+8,DOID_850,1,lung disease,2018
+8,DOID_934,1,viral infectious disease,2018
+8,DOID_9415,1,allergic asthma,2018
+9,CHEBI_17089,1,glycoprotein,2004
+9,CHEBI_29852,1,methylarsonic acid,2004
+9,CHEBI_33697,1,ribonucleic acid,2004
+9,CHEBI_33704,1,alpha-amino acid,2004
+9,CHEBI_36080,1,protein,2004
+9,CHEBI_36976,1,nucleotide,2004
+9,CHEBI_37527,1,acid,2004
+9,CHEBI_40799,1,"androsta-1,4-diene-3,17-dione",2004
+9,CHEBI_46882,1,primary amino group,2004
+9,CHEBI_59132,1,antigen,2004
+9,CHEBI_84123,1,advanced glycation end-product,2004
+9,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+9,DOID_2237,1,hepatitis,2004
+9,DOID_225,1,syndrome,2004
+9,DOID_2326,1,gastroenteritis,2004
+9,DOID_2945,1,severe acute respiratory syndrome,2004
+9,DOID_6132,1,bronchitis,2004
+9,DOID_8469,1,influenza,2004
+10,CHEBI_132554,1,oligomer,25 Aug 2000
+10,CHEBI_145810,1,insulin,25 Aug 2000
+10,CHEBI_147370,1,imazaquin-ammonium,25 Aug 2000
+10,CHEBI_15356,1,cysteine,25 Aug 2000
+10,CHEBI_16178,1,phosphomannan,25 Aug 2000
+10,CHEBI_16240,1,hydrogen peroxide,25 Aug 2000
+10,CHEBI_16247,1,phospholipid,25 Aug 2000
+10,CHEBI_16412,1,lipopolysaccharide,25 Aug 2000
+10,CHEBI_16480,1,nitric oxide,25 Aug 2000
+10,CHEBI_165825,1,GpA,25 Aug 2000
+10,CHEBI_16646,1,carbohydrate,25 Aug 2000
+10,CHEBI_16670,1,peptide,25 Aug 2000
+10,CHEBI_16749,1,1-phosphatidyl-1D-myo-inositol,25 Aug 2000
+10,CHEBI_16991,1,deoxyribonucleic acid,25 Aug 2000
+10,CHEBI_17089,1,glycoprotein,25 Aug 2000
+10,CHEBI_17234,1,glucose,25 Aug 2000
+10,CHEBI_17268,1,myo-inositol,25 Aug 2000
+10,CHEBI_17306,1,maltose,25 Aug 2000
+10,CHEBI_17895,1,L-tyrosine,25 Aug 2000
+10,CHEBI_18059,1,lipid,25 Aug 2000
+10,CHEBI_18095,1,trans-4-hydroxy-L-proline,25 Aug 2000
+10,CHEBI_18154,1,polysaccharide,25 Aug 2000
+10,CHEBI_18276,1,dihydrogen,25 Aug 2000
+10,CHEBI_18368,1,D-glucosyl-N-acylsphingosine,25 Aug 2000
+10,CHEBI_22907,1,bleomycin,25 Aug 2000
+10,CHEBI_22984,1,calcium atom,25 Aug 2000
+10,CHEBI_23888,1,drug,25 Aug 2000
+10,CHEBI_24261,1,glucocorticoid,25 Aug 2000
+10,CHEBI_24400,1,glycoside,25 Aug 2000
+10,CHEBI_24433,1,group,25 Aug 2000
+10,CHEBI_24870,1,ion,25 Aug 2000
+10,CHEBI_25016,1,lead atom,25 Aug 2000
+10,CHEBI_25367,1,molecule,25 Aug 2000
+10,CHEBI_25741,1,oxide,25 Aug 2000
+10,CHEBI_26274,1,prolyl group,25 Aug 2000
+10,CHEBI_26667,1,sialic acid,25 Aug 2000
+10,CHEBI_27780,1,detergent,25 Aug 2000
+10,CHEBI_28808,1,mannan,25 Aug 2000
+10,CHEBI_29256,1,thiol,25 Aug 2000
+10,CHEBI_29342,1,imino group,25 Aug 2000
+10,CHEBI_32359,1,dodecanoyl group,25 Aug 2000
+10,CHEBI_32835,1,threonine residue,25 Aug 2000
+10,CHEBI_33250,1,atom,25 Aug 2000
+10,CHEBI_33281,1,antimicrobial agent,25 Aug 2000
+10,CHEBI_33284,1,nutrient,25 Aug 2000
+10,CHEBI_33563,1,glycolipid,25 Aug 2000
+10,CHEBI_33697,1,ribonucleic acid,25 Aug 2000
+10,CHEBI_33699,1,messenger RNA,25 Aug 2000
+10,CHEBI_33704,1,alpha-amino acid,25 Aug 2000
+10,CHEBI_33731,1,cluster,25 Aug 2000
+10,CHEBI_3379,1,capsular polysaccharide,25 Aug 2000
+10,CHEBI_33905,1,heptose,25 Aug 2000
+10,CHEBI_34699,1,diethyl sulfate,25 Aug 2000
+10,CHEBI_35195,1,surfactant,25 Aug 2000
+10,CHEBI_35222,1,inhibitor,25 Aug 2000
+10,CHEBI_35224,1,effector,25 Aug 2000
+10,CHEBI_35381,1,monosaccharide,25 Aug 2000
+10,CHEBI_36080,1,protein,25 Aug 2000
+10,CHEBI_37527,1,acid,25 Aug 2000
+10,CHEBI_37684,1,mannose,25 Aug 2000
+10,CHEBI_3815,1,Collagen,25 Aug 2000
+10,CHEBI_39124,1,calcium ion,25 Aug 2000
+10,CHEBI_41879,1,dexamethasone,25 Aug 2000
+10,CHEBI_42191,1,ethylenediaminetetraacetic acid,25 Aug 2000
+10,CHEBI_44785,1,peroxide,25 Aug 2000
+10,CHEBI_46882,1,primary amino group,25 Aug 2000
+10,CHEBI_48343,1,disulfide,25 Aug 2000
+10,CHEBI_48377,1,imidic acid,25 Aug 2000
+10,CHEBI_50699,1,oligosaccharide,25 Aug 2000
+10,CHEBI_50904,1,allergen,25 Aug 2000
+10,CHEBI_50906,1,role,25 Aug 2000
+10,CHEBI_52214,1,ligand,25 Aug 2000
+10,CHEBI_52290,1,mitogen,25 Aug 2000
+10,CHEBI_5717,1,high-mannose oligosaccharide,25 Aug 2000
+10,CHEBI_59132,1,antigen,25 Aug 2000
+10,CHEBI_59485,1,L-alpha-D-Hepp-(1->2)-L-alpha-D-Hepp-(1->3)-[beta-Glcp-(1->4)]-L-alpha-D-Hepp,25 Aug 2000
+10,CHEBI_59524,1,lipoarabinomannan,25 Aug 2000
+10,CHEBI_60175,1,5-hydroxylysine,25 Aug 2000
+10,CHEBI_63248,1,oxidising agent,25 Aug 2000
+10,CHEBI_64198,1,dimercaprol,25 Aug 2000
+10,CHEBI_72813,1,exopolysaccharide,25 Aug 2000
+10,CHEBI_89981,1,LPS with O-antigen,25 Aug 2000
+10,CHEBI_9584,1,desiccated thyroid extract,25 Aug 2000
+10,DOID_0111962,1,combined immunodeficiency,25 Aug 2000
+10,DOID_10325,1,silicosis,25 Aug 2000
+10,DOID_1205,1,allergic disease,25 Aug 2000
+10,DOID_2841,1,asthma,25 Aug 2000
+10,DOID_299,1,adenocarcinoma,25 Aug 2000
+10,DOID_3910,1,lung adenocarcinoma,25 Aug 2000
+10,DOID_399,1,tuberculosis,25 Aug 2000
+10,DOID_4,1,disease,25 Aug 2000
+10,DOID_627,1,severe combined immunodeficiency,25 Aug 2000
+10,DOID_8469,1,influenza,25 Aug 2000
+11,CHEBI_17089,1,glycoprotein,2004
+11,CHEBI_29852,1,methylarsonic acid,2004
+11,CHEBI_33697,1,ribonucleic acid,2004
+11,CHEBI_33704,1,alpha-amino acid,2004
+11,CHEBI_36080,1,protein,2004
+11,CHEBI_36976,1,nucleotide,2004
+11,CHEBI_37527,1,acid,2004
+11,CHEBI_40799,1,"androsta-1,4-diene-3,17-dione",2004
+11,CHEBI_46882,1,primary amino group,2004
+11,CHEBI_59132,1,antigen,2004
+11,CHEBI_84123,1,advanced glycation end-product,2004
+11,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+11,DOID_2237,1,hepatitis,2004
+11,DOID_225,1,syndrome,2004
+11,DOID_2326,1,gastroenteritis,2004
+11,DOID_2945,1,severe acute respiratory syndrome,2004
+11,DOID_6132,1,bronchitis,2004
+11,DOID_8469,1,influenza,2004
+12,CHEBI_16044,1,L-methionine residue,2018
+12,CHEBI_18111,1,ribosomal RNA,2018
+12,CHEBI_24433,1,group,2018
+12,CHEBI_25016,1,lead atom,2018
+12,CHEBI_28515,1,acetoacetamide,2018
+12,CHEBI_30216,1,alpha-particle,2018
+12,CHEBI_33281,1,antimicrobial agent,2018
+12,CHEBI_33341,1,titanium atom,2018
+12,CHEBI_33697,1,ribonucleic acid,2018
+12,CHEBI_33731,1,cluster,2018
+12,CHEBI_34935,1,propyzamide,2018
+12,CHEBI_35640,1,adrenergic uptake inhibitor,2018
+12,CHEBI_36976,1,nucleotide,2018
+12,CHEBI_50906,1,role,2018
+12,CHEBI_84123,1,advanced glycation end-product,2018
+12,DOID_0080815,1,childhood-onset asthma,2018
+12,DOID_10754,1,otitis media,2018
+12,DOID_1485,1,cystic fibrosis,2018
+12,DOID_2275,1,pharyngitis,2018
+12,DOID_2723,1,dermatitis,2018
+12,DOID_2841,1,asthma,2018
+12,DOID_3083,1,chronic obstructive pulmonary disease,2018
+12,DOID_4,1,disease,2018
+12,DOID_4481,1,allergic rhinitis,2018
+12,DOID_4483,1,rhinitis,2018
+12,DOID_850,1,lung disease,2018
+12,DOID_934,1,viral infectious disease,2018
+12,DOID_9415,1,allergic asthma,2018
+13,CHEBI_16044,1,L-methionine residue,2018
+13,CHEBI_18111,1,ribosomal RNA,2018
+13,CHEBI_24433,1,group,2018
+13,CHEBI_25016,1,lead atom,2018
+13,CHEBI_28515,1,acetoacetamide,2018
+13,CHEBI_30216,1,alpha-particle,2018
+13,CHEBI_33281,1,antimicrobial agent,2018
+13,CHEBI_33341,1,titanium atom,2018
+13,CHEBI_33697,1,ribonucleic acid,2018
+13,CHEBI_33731,1,cluster,2018
+13,CHEBI_34935,1,propyzamide,2018
+13,CHEBI_35640,1,adrenergic uptake inhibitor,2018
+13,CHEBI_36976,1,nucleotide,2018
+13,CHEBI_50906,1,role,2018
+13,CHEBI_84123,1,advanced glycation end-product,2018
+13,DOID_0080815,1,childhood-onset asthma,2018
+13,DOID_10754,1,otitis media,2018
+13,DOID_1485,1,cystic fibrosis,2018
+13,DOID_2275,1,pharyngitis,2018
+13,DOID_2723,1,dermatitis,2018
+13,DOID_2841,1,asthma,2018
+13,DOID_3083,1,chronic obstructive pulmonary disease,2018
+13,DOID_4,1,disease,2018
+13,DOID_4481,1,allergic rhinitis,2018
+13,DOID_4483,1,rhinitis,2018
+13,DOID_850,1,lung disease,2018
+13,DOID_934,1,viral infectious disease,2018
+13,DOID_9415,1,allergic asthma,2018
+14,CHEBI_17089,1,glycoprotein,2004
+14,CHEBI_29852,1,methylarsonic acid,2004
+14,CHEBI_33697,1,ribonucleic acid,2004
+14,CHEBI_33704,1,alpha-amino acid,2004
+14,CHEBI_36080,1,protein,2004
+14,CHEBI_36976,1,nucleotide,2004
+14,CHEBI_37527,1,acid,2004
+14,CHEBI_40799,1,"androsta-1,4-diene-3,17-dione",2004
+14,CHEBI_46882,1,primary amino group,2004
+14,CHEBI_59132,1,antigen,2004
+14,CHEBI_84123,1,advanced glycation end-product,2004
+14,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+14,DOID_2237,1,hepatitis,2004
+14,DOID_225,1,syndrome,2004
+14,DOID_2326,1,gastroenteritis,2004
+14,DOID_2945,1,severe acute respiratory syndrome,2004
+14,DOID_6132,1,bronchitis,2004
+14,DOID_8469,1,influenza,2004
+15,CHEBI_16044,1,L-methionine residue,2018
+15,CHEBI_18111,1,ribosomal RNA,2018
+15,CHEBI_24433,1,group,2018
+15,CHEBI_25016,1,lead atom,2018
+15,CHEBI_28515,1,acetoacetamide,2018
+15,CHEBI_30216,1,alpha-particle,2018
+15,CHEBI_33281,1,antimicrobial agent,2018
+15,CHEBI_33341,1,titanium atom,2018
+15,CHEBI_33697,1,ribonucleic acid,2018
+15,CHEBI_33731,1,cluster,2018
+15,CHEBI_34935,1,propyzamide,2018
+15,CHEBI_35640,1,adrenergic uptake inhibitor,2018
+15,CHEBI_36976,1,nucleotide,2018
+15,CHEBI_50906,1,role,2018
+15,CHEBI_84123,1,advanced glycation end-product,2018
+15,DOID_0080815,1,childhood-onset asthma,2018
+15,DOID_10754,1,otitis media,2018
+15,DOID_1485,1,cystic fibrosis,2018
+15,DOID_2275,1,pharyngitis,2018
+15,DOID_2723,1,dermatitis,2018
+15,DOID_2841,1,asthma,2018
+15,DOID_3083,1,chronic obstructive pulmonary disease,2018
+15,DOID_4,1,disease,2018
+15,DOID_4481,1,allergic rhinitis,2018
+15,DOID_4483,1,rhinitis,2018
+15,DOID_850,1,lung disease,2018
+15,DOID_934,1,viral infectious disease,2018
+15,DOID_9415,1,allergic asthma,2018
+16,CHEBI_16044,1,L-methionine residue,2018
+16,CHEBI_18111,1,ribosomal RNA,2018
+16,CHEBI_24433,1,group,2018
+16,CHEBI_25016,1,lead atom,2018
+16,CHEBI_28515,1,acetoacetamide,2018
+16,CHEBI_30216,1,alpha-particle,2018
+16,CHEBI_33281,1,antimicrobial agent,2018
+16,CHEBI_33341,1,titanium atom,2018
+16,CHEBI_33697,1,ribonucleic acid,2018
+16,CHEBI_33731,1,cluster,2018
+16,CHEBI_34935,1,propyzamide,2018
+16,CHEBI_35640,1,adrenergic uptake inhibitor,2018
+16,CHEBI_36976,1,nucleotide,2018
+16,CHEBI_50906,1,role,2018
+16,CHEBI_84123,1,advanced glycation end-product,2018
+16,DOID_0080815,1,childhood-onset asthma,2018
+16,DOID_10754,1,otitis media,2018
+16,DOID_1485,1,cystic fibrosis,2018
+16,DOID_2275,1,pharyngitis,2018
+16,DOID_2723,1,dermatitis,2018
+16,DOID_2841,1,asthma,2018
+16,DOID_3083,1,chronic obstructive pulmonary disease,2018
+16,DOID_4,1,disease,2018
+16,DOID_4481,1,allergic rhinitis,2018
+16,DOID_4483,1,rhinitis,2018
+16,DOID_850,1,lung disease,2018
+16,DOID_934,1,viral infectious disease,2018
+16,DOID_9415,1,allergic asthma,2018
+17,CHEBI_16044,1,L-methionine residue,2018
+17,CHEBI_18111,1,ribosomal RNA,2018
+17,CHEBI_24433,1,group,2018
+17,CHEBI_25016,1,lead atom,2018
+17,CHEBI_28515,1,acetoacetamide,2018
+17,CHEBI_30216,1,alpha-particle,2018
+17,CHEBI_33281,1,antimicrobial agent,2018
+17,CHEBI_33341,1,titanium atom,2018
+17,CHEBI_33697,1,ribonucleic acid,2018
+17,CHEBI_33731,1,cluster,2018
+17,CHEBI_34935,1,propyzamide,2018
+17,CHEBI_35640,1,adrenergic uptake inhibitor,2018
+17,CHEBI_36976,1,nucleotide,2018
+17,CHEBI_50906,1,role,2018
+17,CHEBI_84123,1,advanced glycation end-product,2018
+17,DOID_0080815,1,childhood-onset asthma,2018
+17,DOID_10754,1,otitis media,2018
+17,DOID_1485,1,cystic fibrosis,2018
+17,DOID_2275,1,pharyngitis,2018
+17,DOID_2723,1,dermatitis,2018
+17,DOID_2841,1,asthma,2018
+17,DOID_3083,1,chronic obstructive pulmonary disease,2018
+17,DOID_4,1,disease,2018
+17,DOID_4481,1,allergic rhinitis,2018
+17,DOID_4483,1,rhinitis,2018
+17,DOID_850,1,lung disease,2018
+17,DOID_934,1,viral infectious disease,2018
+17,DOID_9415,1,allergic asthma,2018
+18,CHEBI_16044,1,L-methionine residue,2018
+18,CHEBI_18111,1,ribosomal RNA,2018
+18,CHEBI_24433,1,group,2018
+18,CHEBI_25016,1,lead atom,2018
+18,CHEBI_28515,1,acetoacetamide,2018
+18,CHEBI_30216,1,alpha-particle,2018
+18,CHEBI_33281,1,antimicrobial agent,2018
+18,CHEBI_33341,1,titanium atom,2018
+18,CHEBI_33697,1,ribonucleic acid,2018
+18,CHEBI_33731,1,cluster,2018
+18,CHEBI_34935,1,propyzamide,2018
+18,CHEBI_35640,1,adrenergic uptake inhibitor,2018
+18,CHEBI_36976,1,nucleotide,2018
+18,CHEBI_50906,1,role,2018
+18,CHEBI_84123,1,advanced glycation end-product,2018
+18,DOID_0080815,1,childhood-onset asthma,2018
+18,DOID_10754,1,otitis media,2018
+18,DOID_1485,1,cystic fibrosis,2018
+18,DOID_2275,1,pharyngitis,2018
+18,DOID_2723,1,dermatitis,2018
+18,DOID_2841,1,asthma,2018
+18,DOID_3083,1,chronic obstructive pulmonary disease,2018
+18,DOID_4,1,disease,2018
+18,DOID_4481,1,allergic rhinitis,2018
+18,DOID_4483,1,rhinitis,2018
+18,DOID_850,1,lung disease,2018
+18,DOID_934,1,viral infectious disease,2018
+18,DOID_9415,1,allergic asthma,2018
+19,CHEBI_16044,1,L-methionine residue,2018
+19,CHEBI_18111,1,ribosomal RNA,2018
+19,CHEBI_24433,1,group,2018
+19,CHEBI_25016,1,lead atom,2018
+19,CHEBI_28515,1,acetoacetamide,2018
+19,CHEBI_30216,1,alpha-particle,2018
+19,CHEBI_33281,1,antimicrobial agent,2018
+19,CHEBI_33341,1,titanium atom,2018
+19,CHEBI_33697,1,ribonucleic acid,2018
+19,CHEBI_33731,1,cluster,2018
+19,CHEBI_34935,1,propyzamide,2018
+19,CHEBI_35640,1,adrenergic uptake inhibitor,2018
+19,CHEBI_36976,1,nucleotide,2018
+19,CHEBI_50906,1,role,2018
+19,CHEBI_84123,1,advanced glycation end-product,2018
+19,DOID_0080815,1,childhood-onset asthma,2018
+19,DOID_10754,1,otitis media,2018
+19,DOID_1485,1,cystic fibrosis,2018
+19,DOID_2275,1,pharyngitis,2018
+19,DOID_2723,1,dermatitis,2018
+19,DOID_2841,1,asthma,2018
+19,DOID_3083,1,chronic obstructive pulmonary disease,2018
+19,DOID_4,1,disease,2018
+19,DOID_4481,1,allergic rhinitis,2018
+19,DOID_4483,1,rhinitis,2018
+19,DOID_850,1,lung disease,2018
+19,DOID_934,1,viral infectious disease,2018
+19,DOID_9415,1,allergic asthma,2018
+20,CHEBI_16044,1,L-methionine residue,2018
+20,CHEBI_18111,1,ribosomal RNA,2018
+20,CHEBI_24433,1,group,2018
+20,CHEBI_25016,1,lead atom,2018
+20,CHEBI_28515,1,acetoacetamide,2018
+20,CHEBI_30216,1,alpha-particle,2018
+20,CHEBI_33281,1,antimicrobial agent,2018
+20,CHEBI_33341,1,titanium atom,2018
+20,CHEBI_33697,1,ribonucleic acid,2018
+20,CHEBI_33731,1,cluster,2018
+20,CHEBI_34935,1,propyzamide,2018
+20,CHEBI_35640,1,adrenergic uptake inhibitor,2018
+20,CHEBI_36976,1,nucleotide,2018
+20,CHEBI_50906,1,role,2018
+20,CHEBI_84123,1,advanced glycation end-product,2018
+20,DOID_0080815,1,childhood-onset asthma,2018
+20,DOID_10754,1,otitis media,2018
+20,DOID_1485,1,cystic fibrosis,2018
+20,DOID_2275,1,pharyngitis,2018
+20,DOID_2723,1,dermatitis,2018
+20,DOID_2841,1,asthma,2018
+20,DOID_3083,1,chronic obstructive pulmonary disease,2018
+20,DOID_4,1,disease,2018
+20,DOID_4481,1,allergic rhinitis,2018
+20,DOID_4483,1,rhinitis,2018
+20,DOID_850,1,lung disease,2018
+20,DOID_934,1,viral infectious disease,2018
+20,DOID_9415,1,allergic asthma,2018
+21,CHEBI_17089,1,glycoprotein,2004
+21,CHEBI_29852,1,methylarsonic acid,2004
+21,CHEBI_33697,1,ribonucleic acid,2004
+21,CHEBI_33704,1,alpha-amino acid,2004
+21,CHEBI_36080,1,protein,2004
+21,CHEBI_36976,1,nucleotide,2004
+21,CHEBI_37527,1,acid,2004
+21,CHEBI_40799,1,"androsta-1,4-diene-3,17-dione",2004
+21,CHEBI_46882,1,primary amino group,2004
+21,CHEBI_59132,1,antigen,2004
+21,CHEBI_84123,1,advanced glycation end-product,2004
+21,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+21,DOID_2237,1,hepatitis,2004
+21,DOID_225,1,syndrome,2004
+21,DOID_2326,1,gastroenteritis,2004
+21,DOID_2945,1,severe acute respiratory syndrome,2004
+21,DOID_6132,1,bronchitis,2004
+21,DOID_8469,1,influenza,2004
+22,CHEBI_17089,1,glycoprotein,2004
+22,CHEBI_29852,1,methylarsonic acid,2004
+22,CHEBI_33697,1,ribonucleic acid,2004
+22,CHEBI_33704,1,alpha-amino acid,2004
+22,CHEBI_36080,1,protein,2004
+22,CHEBI_36976,1,nucleotide,2004
+22,CHEBI_37527,1,acid,2004
+22,CHEBI_40799,1,"androsta-1,4-diene-3,17-dione",2004
+22,CHEBI_46882,1,primary amino group,2004
+22,CHEBI_59132,1,antigen,2004
+22,CHEBI_84123,1,advanced glycation end-product,2004
+22,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+22,DOID_2237,1,hepatitis,2004
+22,DOID_225,1,syndrome,2004
+22,DOID_2326,1,gastroenteritis,2004
+22,DOID_2945,1,severe acute respiratory syndrome,2004
+22,DOID_6132,1,bronchitis,2004
+22,DOID_8469,1,influenza,2004
+23,CHEBI_17089,1,glycoprotein,2004
+23,CHEBI_29852,1,methylarsonic acid,2004
+23,CHEBI_33697,1,ribonucleic acid,2004
+23,CHEBI_33704,1,alpha-amino acid,2004
+23,CHEBI_36080,1,protein,2004
+23,CHEBI_36976,1,nucleotide,2004
+23,CHEBI_37527,1,acid,2004
+23,CHEBI_40799,1,"androsta-1,4-diene-3,17-dione",2004
+23,CHEBI_46882,1,primary amino group,2004
+23,CHEBI_59132,1,antigen,2004
+23,CHEBI_84123,1,advanced glycation end-product,2004
+23,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+23,DOID_2237,1,hepatitis,2004
+23,DOID_225,1,syndrome,2004
+23,DOID_2326,1,gastroenteritis,2004
+23,DOID_2945,1,severe acute respiratory syndrome,2004
+23,DOID_6132,1,bronchitis,2004
+23,DOID_8469,1,influenza,2004
+24,CHEBI_17089,1,glycoprotein,2004
+24,CHEBI_29852,1,methylarsonic acid,2004
+24,CHEBI_33697,1,ribonucleic acid,2004
+24,CHEBI_33704,1,alpha-amino acid,2004
+24,CHEBI_36080,1,protein,2004
+24,CHEBI_36976,1,nucleotide,2004
+24,CHEBI_37527,1,acid,2004
+24,CHEBI_40799,1,"androsta-1,4-diene-3,17-dione",2004
+24,CHEBI_46882,1,primary amino group,2004
+24,CHEBI_59132,1,antigen,2004
+24,CHEBI_84123,1,advanced glycation end-product,2004
+24,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+24,DOID_2237,1,hepatitis,2004
+24,DOID_225,1,syndrome,2004
+24,DOID_2326,1,gastroenteritis,2004
+24,DOID_2945,1,severe acute respiratory syndrome,2004
+24,DOID_6132,1,bronchitis,2004
+24,DOID_8469,1,influenza,2004
+25,CHEBI_17089,1,glycoprotein,2004
+25,CHEBI_29852,1,methylarsonic acid,2004
+25,CHEBI_33697,1,ribonucleic acid,2004
+25,CHEBI_33704,1,alpha-amino acid,2004
+25,CHEBI_36080,1,protein,2004
+25,CHEBI_36976,1,nucleotide,2004
+25,CHEBI_37527,1,acid,2004
+25,CHEBI_40799,1,"androsta-1,4-diene-3,17-dione",2004
+25,CHEBI_46882,1,primary amino group,2004
+25,CHEBI_59132,1,antigen,2004
+25,CHEBI_84123,1,advanced glycation end-product,2004
+25,DOID_0080327,1,"multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia and hydranencephaly",2004
+25,DOID_2237,1,hepatitis,2004
+25,DOID_225,1,syndrome,2004
+25,DOID_2326,1,gastroenteritis,2004
+25,DOID_2945,1,severe acute respiratory syndrome,2004
+25,DOID_6132,1,bronchitis,2004
+25,DOID_8469,1,influenza,2004

@@ -1,0 +1,4448 @@
+{
+    "paper_id": "PMC446188",
+    "metadata": {
+        "title": "Moderate mutation rate in the SARS coronavirus genome and its implications",
+        "authors": [
+            {
+                "first": "Zhongming",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "email": "zzhao@vcu.edu",
+                "affiliation": {}
+            },
+            {
+                "first": "Haipeng",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": "li@zi.biologie.uni-muenchen.de",
+                "affiliation": {}
+            },
+            {
+                "first": "Xiaozhuang",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "email": "xwu@sph.uth.tmc.edu",
+                "affiliation": {}
+            },
+            {
+                "first": "Yixi",
+                "middle": [],
+                "last": "Zhong",
+                "suffix": "",
+                "email": "yzhong@sph.uth.tmc.edu",
+                "affiliation": {}
+            },
+            {
+                "first": "Keqin",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": "kqzhang1@yahoo.com.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "Ya-Ping",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": "zhangyp@public.km.yn.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "Eric",
+                "middle": [],
+                "last": "Boerwinkle",
+                "suffix": "",
+                "email": "Eric.Boerwinkle@uth.tmc.edu",
+                "affiliation": {}
+            },
+            {
+                "first": "Yun-Xin",
+                "middle": [],
+                "last": "Fu",
+                "suffix": "",
+                "email": "Yunxin.Fu@uth.tmc.edu",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "The earliest confirmed case of the severe acute respiratory syndrome (SARS) occurred in November, 2002 in the Guangdong province of China. Toward the end of the epidemic (as reported by July 31, 2003) there were 8,098 recognized cases in 31 countries or regions worldwide and 774 implicated deaths (WHO, ). Due to an unprecedented international effort, the SARS coronavirus (SARS-CoV) was identified as the causal agent in late March 2003 and its first complete genomic sequences were published April 13, 2003 [1,2]. One month later, SARS-like coronaviruses were found in palm civets and other animals in Guangdong, China, the first evidence of possible interspecies transmission of the virus [3]. The re-emergence of the isolated SARS cases in Asia in December, 2003 and in Anhui province and Beijing, China, in late April 2004, has confirmed a wide-spread conjecture that the SARS-CoV will likely be with humans for years to come. This re-emergence of SARS cases makes it legitimate to critically re-evaluate the time for the origin of the SARS-CoV. ",
+            "cite_spans": [
+                {
+                    "start": 511,
+                    "end": 512,
+                    "mention": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 513,
+                    "end": 514,
+                    "mention": "2",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 694,
+                    "end": 695,
+                    "mention": "3",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "section": "Background",
+            "ref_spans": []
+        },
+        {
+            "text": "There are 26 putative coding regions which cover about 98% of the 29.8-kb SARS-CoV genome. Approximately two-thirds of the genome are at the 5' side encoding the nonstructural proteins (orf1ab and orf1a) and one-third are at the 3' side encoding four structural proteins: spike glycoprotein (S), envelope (E), membrane (M), and nucleocapsid (N) [4]. The spike glycoprotein, especially its S1 subdomain, is responsible for binding to the specific receptor in the target cells [4,5]. RNA polymerase and nsp1 genes are two major loci in orf1ab. ",
+            "cite_spans": [
+                {
+                    "start": 346,
+                    "end": 347,
+                    "mention": "4",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 476,
+                    "end": 477,
+                    "mention": "4",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 478,
+                    "end": 479,
+                    "mention": "5",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "section": "Background",
+            "ref_spans": []
+        },
+        {
+            "text": "Estimating the mutation rate in RNA viruses and retroviruses is critical but also challenging for tracing their rapidly evolving paths. The rates estimated from the positive-strand ssRNA virus appear to be in a similar range (e.g., ~10-3 per site per year) from the negative-strand ssRNA virus, although a direct comparison is not possible because the mutation rates could be estimated from different regions or genes [6-15]. The estimated mutation rates in coronavirus, which SARS-CoV phylogenetically links to, are moderate to high compared to the others in the category of ssRNA viruses. For example, it was estimated to be 0.3 \u2013 0.6 \u00d7 10-2 per site per year in the infectious bronchitis virus in a previous study [8]. However, the estimated mutation rate appears to have a wider range in the retrovirus [16-20]. More details are presented in the Discussion section. ",
+            "cite_spans": [
+                {
+                    "start": 419,
+                    "end": 420,
+                    "mention": "6",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 421,
+                    "end": 423,
+                    "mention": "15",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 718,
+                    "end": 719,
+                    "mention": "8",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 808,
+                    "end": 810,
+                    "mention": "16",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 811,
+                    "end": 813,
+                    "mention": "20",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "section": "Background",
+            "ref_spans": []
+        },
+        {
+            "text": "How SARS-CoV evolves has important implications for both strategic planning in the prevention of SARS epidemics and development of a vaccine and antibodies. The mutation rate is among the most fundamental aspect of sequence evolution. If the pathogen evolves slowly, there will be a better chance for development of effective long lasting vaccines and successful treatment for patients from a particular geographic region will likely be effective for patients from other areas. On the other hand, if the pathogen (particularly the genes coding for major antigens) evolves rapidly, an effective strategy to prevent transmission of the SARS-CoV must be the top-priority, and an effective vaccine program may be problematic. The purpose of this study is to improve our understanding of the evolutionary mechanism in the SARS-CoV genome, and in particular to address the issues of the mutation rate and the time for the emergence of the SARS-CoV in the human population. We reported the estimated mutation rate in the SARS-CoV using the available complete genomic sequences whose clinical history either is certain or could be inferred. ",
+            "cite_spans": [],
+            "section": "Background",
+            "ref_spans": []
+        },
+        {
+            "text": "The sources of the genomic sequences used in this study and the methods of estimating mutation rates are presented in the Methods section. The divergence time was inferred based on the information summarized in Figure 1. Table 1 shows the mutation rates estimated by three strategies. When the first strategy was used to adjust for sequencing errors and potential mutations in the cell culture, the mutation rate was estimated to be 0.80 \u2013 2.38 \u00d7 10-3 nucleotide substitution per site per year using all the sequences not generated from mainland China, and 0.81 \u2013 1.38 \u00d7 10-3 nucleotide substitution per site per year using the TOR2 and Urbani sequences only. When the second strategy was used, the mutation rate was estimated to be 0.74 \u2013 1.62 \u00d7 10-3 nucleotide substitution per site per year, which is lower than that from using the first strategy. As expected, the mutation rate estimated using the third strategy was the lowest; 0.54 \u2013 1.57 \u00d7 10-3 nucleotide substitution per site per year using the 11 sequences not generated from mainland China and 0.42 \u2013 0.72 \u00d7 10-3 nucleotide substitution per site per year using the TOR2 and Urbani sequences only.",
+            "cite_spans": [],
+            "section": "Mutation rate ::: Results",
+            "ref_spans": [
+                {
+                    "start": 218,
+                    "end": 219,
+                    "mention": "1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 227,
+                    "end": 228,
+                    "mention": "1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "For all samples, the proportion of non-synonymous substitutions per non-synonymous site (Ka) was 0.63 \u00d7 10-3 and the proportion of synonymous substitutions per synonymous site (Ks) was 0.65 \u00d7 10-3, leading to Ka/Ks being 0.97. This ratio was 0.79 in the nonstructural region and 1.37 in the structural region. In particular, the values of Ka/Ks were 1.98 for nsp1 and 0.85 for S. ",
+            "cite_spans": [],
+            "section": "Substitution rate in the coding regions ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "Table 2 shows the rates of nucleotide substitution in the coding regions of sequences. The overall rates of non-synonymous and synonymous substitutions were 1.16 \u2013 3.30 \u00d7 10-3 and 1.67 \u2013 4.67 \u00d7 10-3 per site per year, respectively. The non-synonymous rate was higher in the three genes E, M, and N, suggesting some of those mutations might increase antigenicity, although the number of mutations used to calculate these rates was small.",
+            "cite_spans": [],
+            "section": "Substitution rate in the coding regions ::: Results",
+            "ref_spans": [
+                {
+                    "start": 6,
+                    "end": 7,
+                    "mention": "2",
+                    "ref_id": "TABREF1"
+                }
+            ]
+        },
+        {
+            "text": "The mutation rate estimated earlier allowed us to estimate the age of the most recent common ancestor (MRCA) of the sample, which should be about the same or more recent than the time for the origin of SARS-CoV. The phylogeny reconstructed by the neighbor-joining method with mid-point rooting or by maximum parsimony is overall consistent with the epidemic (Additional file 1). All the sequences from mainland China clustered together and separated from the remaining sequences, including those clinically related to the index patient A. GZ01 was distantly separated from other sequences. Assuming the MRCA is the root of the phylogeny, the age of the MRCA is then the divergence time between GZ01 and other sequences. Using the mutation rates estimated above, it is found that the MRCA could be alive at a time between March 28 and November 29, 2002 (strategy 1), between February 22 and October 3, 2002 (strategy 2), and even earlier (strategy 3). The most critical implication of these analyses is that it is entirely plausible that the MRCA of the sample could be alive as early as the spring of 2002.",
+            "cite_spans": [],
+            "section": "Time for the origin of SARS-CoV ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "Some uncertainties in the quality of the sequence data and incomplete information from patient histories are two limiting factors of this study. The world-wide race to understand this novel virus has provided an unprecedented set of complete genome sequences of a pathogen in an interval of a few weeks, but likely side-effects of this race might be an elevated error rate in the released sequences and generating errors during the analysis. Among the 129 sequence variations reported [4], many were generated randomly by the algorithms during the alignment of the multiple sequences, therefore these should be removed or adjusted. The concern above has led us to wait until all the sequences used in this study have been significantly revised by their generators and to manually adjust the multiple-sequence alignment. Still some errors were unavoidable partly due to the intrinsic error rate of sequencing technology. For example among 18 common variations, 9 could not be uniquely assigned to the internal branches of the phylogeny. This incongruence is likely partially due to sequence errors. The existence of sequence errors can also be inferred by examining the ratio of transitional versus transversional changes. If nucleotide substitution occurs randomly, there are two transversional substitutions on average for each transitional substitution, and the ratio of transition to transversion should be 0.5. However, transition is generally favored over transversion in many organisms. For example, the ratio is approximately 2 in the human genome [21,22]. The ratio has not been discussed extensively in the RNA viruses; however, it appears to be higher than that in the mammalian genomes based on the two previous reports of 3.7 in the influenza A virus [23] and 5.0 in the Marburg virus [24]. In this study, 60 transitional substitutions and 54 transversional substitutions were observed among the 16 sequences, thus the ratio was 1.1. The ratio in five sequences from mainland China was 0.9, considerably smaller than 2.2 which was observed in the other eleven sequences. This suggests that sequences from mainland China may be more erroneous than the other sequences. On the other hand, the ratio was 0.9 for the singleton variations, which was much lower than the ratio of 3.5 for the non-singleton variants. This further indicates that singletons were more problematic.",
+            "cite_spans": [
+                {
+                    "start": 486,
+                    "end": 487,
+                    "mention": "4",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1556,
+                    "end": 1558,
+                    "mention": "21",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1559,
+                    "end": 1561,
+                    "mention": "22",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1764,
+                    "end": 1766,
+                    "mention": "23",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1798,
+                    "end": 1800,
+                    "mention": "24",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "Because of the unknown level of errors in the sequences, a conservative approach to estimating the mutation rate was taken. Three strategies were used to reduce the effect of sequence errors, one being more aggressive than the other two. The mutation rates estimated by the first two strategies were quite similar. In the third strategy, all the variants unique to a given isolate were excluded. Such a strategy is very conservative because the amount of singletons is expected to be large in a rapid expanding environment (see below). Therefore the mutation rate was placed in the range of 0.80 \u2013 2.38 \u00d7 10-3 nucleotide substitution per site per year based on the 11 sequences used. This rate, along with the rate of synonymous substitutions estimated in this study, is close to that recently reported using another approach [25]. In comparison to other coronaviruses, this rate is lower than that in the mouse hepatitis virus, similar to that in the transmissible gastroenteritis virus, but higher than that in the infectious bronchitis virus (Table 3) [6-8]. The estimated mutation rate is at the same order of magnitude as in other RNA viruses, for example, 2.3 \u00d7 10-3 nucleotide substitution per site per year in the influenza A viruses [12,13]. The estimated mutation rate in HIV appears to have a wide range [16,17]. It is likely that the mutation rate in the SARS-CoV is not higher than that in HIV. Therefore, the SARS-CoV is not an unusual coronavirus or RNA virus in terms of its speed of nucleotide changes. One of the challenging tasks, therefore, is to find those variations which led to the SARS-CoV being unique from other RNA viruses, especially coronaviruses, and how those variations changed the functionality and helped to transmit it to humans.",
+            "cite_spans": [
+                {
+                    "start": 827,
+                    "end": 829,
+                    "mention": "25",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1056,
+                    "end": 1057,
+                    "mention": "6",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1058,
+                    "end": 1059,
+                    "mention": "8",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1243,
+                    "end": 1245,
+                    "mention": "12",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1246,
+                    "end": 1248,
+                    "mention": "13",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1316,
+                    "end": 1318,
+                    "mention": "16",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1319,
+                    "end": 1321,
+                    "mention": "17",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "section": "Discussion",
+            "ref_spans": [
+                {
+                    "start": 1052,
+                    "end": 1053,
+                    "mention": "3",
+                    "ref_id": "TABREF2"
+                }
+            ]
+        },
+        {
+            "text": "Nucleotide variation is distributed along the entire genome. Based on our alignment and the annotation in GenBank, 21 of the 26 open reading frames had the variations, including genes encoding polymerase, spike glycoprotein, envelope, membrane, and nucleocapsid protein. The estimated mutation rate suggests that approximately 2 to 6 new mutations will occur each month in a virus assuming the overall uniform mutation rate. However, the rate of the non-synonymous substitutions might vary during the course of the SARS-CoV evolution [25]. It was observed that there was an excess of mutations (and amino acid changes) in the external branches of the phylogeny of a large sample of the HA gene sequences of influenza A, which was partially caused by sampling bias [26]. From a population genetics standpoint, a large proportion of mutations should occur in the external branches when the infected hosts have rapidly increased. Therefore, one should not conclude that mutation rate is low because of a relatively small number of mutations in the internal branches [27]. Our analysis, even by a conservative estimation of mutation rate, indicates that the SARS-CoV population has already harbored a considerable amount of genetic diversity.",
+            "cite_spans": [
+                {
+                    "start": 535,
+                    "end": 537,
+                    "mention": "25",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 765,
+                    "end": 767,
+                    "mention": "26",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1064,
+                    "end": 1066,
+                    "mention": "27",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "The emerging time of the SARS-CoV is of special importance in dissecting the origin of the virus as well as the dynamics of the epidemic. The time for the most recent common ancestor of the 16 isolates was estimated to be between February 2002 and November 2002. Although this is consistent with the date for the earliest known case of SARS and those estimated in other studies [25,28], it also suggests that SARS-CoV could have been present longer than generally believed, that is, around November 2002. One possible scenario is that the SARS-CoV had already infected some people in the spring of 2002 but failed to cause epidemics; its spread was however suppressed in the summer (similar to the summer of 2003), and re-emerged around November to cause the epidemic in 2003. Given the current re-emergence of SARS cases, this scenario is becoming more likely. There were indeed some media reports of SARS-like symptoms of patients in the spring of 2002 although none have been convincingly confirmed. An alternative scenario is that the common ancestor of the SARS-CoV lived in the spring of 2002, but the host was animals. The recent finding of high sequence homology between the isolate from a newly emerged SARS case (December 16, 2003) and the isolates from the masked palm civets [29] makes civets as the primary suspect of reservoir for SARS-CoV.",
+            "cite_spans": [
+                {
+                    "start": 379,
+                    "end": 381,
+                    "mention": "25",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 382,
+                    "end": 384,
+                    "mention": "28",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1288,
+                    "end": 1290,
+                    "mention": "29",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "The estimated mutation rate and the synonymous and non-synonymous substitution rates in the SARS-CoV genome were moderate compared to that in coronavirus and other RNA viruses, suggesting that the SARS-CoV is not an unusual coronavirus in terms of its speed of nucleotide or amino acid changes. Based on the mutation rates estimated in this study, the emerging time of the most recent common ancestor of the 16 isolates can be placed between February 2002 and November 2002. This suggests that the SARS-CoV could have been with humans as early as the spring of 2002 without causing a severe epidemic. ",
+            "cite_spans": [],
+            "section": "Conclusions",
+            "ref_spans": []
+        },
+        {
+            "text": "We obtained 16 complete genomic sequences from the NCBI website . Among them, five sequences (BJ01-04 and GZ01) were obtained from the hosts collected in mainland China and the remaining sequences (TOR2, Urbani, CUHK-W1, CUHK-Su10, HKU-39849, five Singaporean sequences, and TW1) were from the hosts in other geographic regions. Detailed information of the sequences is shown in Table 4. ",
+            "cite_spans": [],
+            "section": "Sequence data ::: Methods",
+            "ref_spans": [
+                {
+                    "start": 385,
+                    "end": 386,
+                    "mention": "4",
+                    "ref_id": "TABREF3"
+                }
+            ]
+        },
+        {
+            "text": "CLUSTAL X [30], a window-based user interface to the CLUSTAL W, was used to align the multiple sequences. The alignment was further manually examined and adjusted. All gene annotation information and nucleotide position designations in this study refer to the TOR2 sequence (GenBank accession ID: NC_004718). To avoid complications, only the single nucleotide variations were analyzed and all alignment gaps were excluded. This led to the identification of a total of 114 single nucleotide variations among all the sequences and an average of 18.2 nucleotide differences between two sequences. ",
+            "cite_spans": [
+                {
+                    "start": 11,
+                    "end": 13,
+                    "mention": "30",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "section": "Sequence analysis ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "The MEGA2 computer program [31] was used to calculate the pair-wise nucleotide differences. The resulting genetic distances were corrected by Jukes and Cantor's method [32]. The phylogeny of the sample was reconstructed using both neighbor-joining and maximum parsimony methods [31,33].",
+            "cite_spans": [
+                {
+                    "start": 28,
+                    "end": 30,
+                    "mention": "31",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 169,
+                    "end": 171,
+                    "mention": "32",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 279,
+                    "end": 281,
+                    "mention": "31",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 282,
+                    "end": 284,
+                    "mention": "33",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "section": "Sequence analysis ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "Mutation rate can be estimated in principle by the number of nucleotide differences between two sequences divided by twice their divergent time, i.e., the time to their most recent common ancestor. Due to better documented contact histories, mutation rates were estimated only by the sequences whose hosts were not from mainland China, that is, sequences TOR2, Urbani, CUHK-W1, CUHK-Su10, HKU-39849, five Singaporean sequences, and TW1. First, the range of the divergence time between each pair of sequences was inferred based on information on infection history, reported strain isolation dates and sequence release dates (Additional file 2) [4,34-36]. For example, the divergence time between isolates TOR2 and Urbani was estimated to be in the range of 34 to 58 days [35,36]. Second, nucleotide difference between each pair of sequences was calculated with adjustments to reduce the effect of sequencing errors and potential mutations during cell culture. Three strategies were used. The first strategy was used to reduce the number of pair-wise nucleotide differences by the averaged number of nucleotide differences observed in five closely related Singaporean sequences [4]. This strategy effectively assumes that there is no real nucleotide difference among these five sequences so that their observed differences reflect the level of errors. The second strategy was used to reduce the pair-wise nucleotide difference by two and to add 7 days to the divergence time to account for cell culture time. This strategy assumes that the mutation rate during the cell culture is the same as that in the human host and that on average the sequencing error is one nucleotide per genome. In the third strategy, we excluded all the nucleotide variants which had been observed only once (singletons) among the 61 human SARS-CoV sequences reported in [25]. The rational is that non-singleton mutations observed in a sample are much less likely due to sequencing errors as well as mutations during the laboratory passage of virus. This strategy is apparently conservative and can be regarded as the lower bound of the mutation rate. Finally, the mutation rate per site per year was estimated by ",
+            "cite_spans": [
+                {
+                    "start": 644,
+                    "end": 645,
+                    "mention": "4",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 646,
+                    "end": 648,
+                    "mention": "34",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 649,
+                    "end": 651,
+                    "mention": "36",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 771,
+                    "end": 773,
+                    "mention": "35",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 774,
+                    "end": 776,
+                    "mention": "36",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1177,
+                    "end": 1178,
+                    "mention": "4",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1846,
+                    "end": 1848,
+                    "mention": "25",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "section": "Sequence analysis ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "",
+            "cite_spans": [],
+            "section": "Sequence analysis ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "where dij is the genetic distance between sequence i and j, tij is twice their divergence time (in number of days), and n is the number of sequences. ",
+            "cite_spans": [],
+            "section": "Sequence analysis ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "A mutation in a codon is non-synonymous (or non-silent) if it changes the amino acid, and is synonymous (silent) otherwise. The number of non-synonymous mutations per non-synonymous site (Ka) and the number of synonymous mutations per synonymous site (Ks) were computed using the method of Li, Wu, and Luo [37]. The non-synonymous and synonymous substitution rates were calculated using the divergence time as estimated above. Only the second strategy was applied to the rate estimation because the number of nucleotide differences used for the adjustment in the first strategy can not be separated for the non-synonymous and synonymous mutations. ",
+            "cite_spans": [
+                {
+                    "start": 307,
+                    "end": 309,
+                    "mention": "37",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "section": "Sequence analysis ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "ZZ carried out the data collection and sequence alignment, participated in the data analysis, and wrote the manuscript. HL compared the mutation rate among RNA viruses. XW collected and estimated the dates of the isolates. YZ participated in the data analysis. KZ, YPZ, and EB participated in the design and coordination of the study. YXF conceived of the study, and participated in its design, coordination and writing. All authors read and approved the final manuscript.",
+            "cite_spans": [],
+            "section": "Authors' contributions",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Mutation rate (per site per year).\nIn method 1, the nucleotide difference (3.2) among five Singaporean sequences was used to adjust the sequence errors and mutations that occurred during cell culture. In method 2, the number of variants between two sequences was reduced by 2 and the divergence time was increased by 14 days. In method 3, the nucleotide variants that were observed only once among the isolates were excluded. t = range of divergence time (days). \u03bc = mutation rate (per site per year).",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2: Substitution rates (\u00d7 10-3 per site per year) and Ka/Ks ratio in the coding regions.\nThe same divergence time as in Table 1 was used. Nonstructural region denotes the 5' two-thirds of the coding regions (sites 265 \u2013 21485) and structural region denotes the 3' one-third of the coding regions (21492 \u2013 29388). EMN denotes three genes E, M, and N.",
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Table 3: Mutation rate in viruses.\n",
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Table 4: Sources of 16 genomic sequences.\nBased on the information in National Center for Biotechnology Information  on August 31, 2003.",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: Clinical relations and estimated range of the divergence time among 16 SARS-CoV isolates. This figure is adapted from Figure 5 in [4]. Solid arrows indicate the certain SARS coronavirus transmission route and dashed lines indicate the uncertain route. SINxxxx denotes an unavailable primary contact of the Singaporean index patient (SIN2500). The numbers indicate a range of the diverged time (days) between two isolates.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "The Genome sequence of the SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Marra",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Astell",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Holt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Brooks-Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "YS",
+                    "middle": [],
+                    "last": "Butterfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Khattra",
+                    "suffix": ""
+                },
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Asano",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Barber",
+                    "suffix": ""
+                },
+                {
+                    "first": "SY",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cloutier",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Coughlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Freeman",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Girn",
+                    "suffix": ""
+                },
+                {
+                    "first": "OL",
+                    "middle": [],
+                    "last": "Griffith",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Leach",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mayo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "McDonald",
+                    "suffix": ""
+                },
+                {
+                    "first": "SB",
+                    "middle": [],
+                    "last": "Montgomery",
+                    "suffix": ""
+                },
+                {
+                    "first": "PK",
+                    "middle": [],
+                    "last": "Pandoh",
+                    "suffix": ""
+                },
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Petrescu",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Robertson",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Schein",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Siddiqui",
+                    "suffix": ""
+                },
+                {
+                    "first": "DE",
+                    "middle": [],
+                    "last": "Smailus",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Stott",
+                    "suffix": ""
+                },
+                {
+                    "first": "GS",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Plummer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Andonov",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Artsob",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Bastien",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bernard",
+                    "suffix": ""
+                },
+                {
+                    "first": "TF",
+                    "middle": [],
+                    "last": "Booth",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bowness",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Czub",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Drebot",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Fernando",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Flick",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Garbutt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gray",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Grolla",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Feldmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Meyers",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kabani",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Normand",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Stroher",
+                    "suffix": ""
+                },
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Tipples",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tyler",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Vogrig",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ward",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Brunham",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Krajden",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Petric",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Skowronski",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Upton",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Roper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1399-1404",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085953"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Mutation rate of GB virus C/hepatitis G virus over the entire genome and in subgenomic regions",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nakao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Okamoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Fukuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Tsuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mitsui",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Masuko",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Iizuka",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Miyakawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mayumi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Virology",
+            "volume": "233",
+            "issn": "",
+            "pages": "43-50",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1997.8615"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Fixation of mutations at the VP1 gene of foot-and-mouth disease virus. Can quasispecies define a transient molecular clock?",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Villaverde",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Martinez",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Sobrino",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dopazo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moya",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Domingo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Gene",
+            "volume": "103",
+            "issn": "",
+            "pages": "147-153",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0378-1119(91)90267-F"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Genetic variation in neuraminidase genes of influenza A (H3N2) viruses",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Bender",
+                    "suffix": ""
+                },
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Regnery",
+                    "suffix": ""
+                },
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Virology",
+            "volume": "224",
+            "issn": "",
+            "pages": "175-183",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1996.0519"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Analysis of the evolution and variation of the human influenza A virus nucleoprotein gene from 1933 to 1990",
+            "authors": [
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Bean",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Virol",
+            "volume": "67",
+            "issn": "",
+            "pages": "2723-2729",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Phylogenetic analysis of infectious salmon anaemia virus isolates from Norway, Canada and Scotland",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Krossoy",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Nilsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Falk",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Endresen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nylund",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Dis Aquat Organ",
+            "volume": "44",
+            "issn": "",
+            "pages": "1-6",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Spontaneous mutation rate of measles virus: direct estimation based on mutations conferring monoclonal antibody resistance",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Schrag",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Bellini",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Virol",
+            "volume": "73",
+            "issn": "",
+            "pages": "51-54",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Rates and dates of divergence between AIDS virus nucleotide sequences",
+            "authors": [
+                {
+                    "first": "WH",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tanimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Sharp",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Mol Biol Evol",
+            "volume": "5",
+            "issn": "",
+            "pages": "313-330",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Estimating mutation rate and generation time from longitudinal samples of DNA sequences",
+            "authors": [
+                {
+                    "first": "Yun-Xin",
+                    "middle": [],
+                    "last": "Fu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol Biol Evol",
+            "volume": "18",
+            "issn": "",
+            "pages": "620-626",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "The evolutionary rate of nonpathogenic simian immunodeficiency virus (SIVagm) is in agreement with a rapid and continuous replication in vivo",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Muller-Trutwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Corbet",
+                    "suffix": ""
+                },
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Tavares",
+                    "suffix": ""
+                },
+                {
+                    "first": "VM",
+                    "middle": [],
+                    "last": "Herve",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Nerrienet",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Georges-Courbot",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Saurin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sonigo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Barre-Sinoussi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Virology",
+            "volume": "223",
+            "issn": "",
+            "pages": "89-102",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1996.0458"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Lower mutation rate of bovine leukemia virus relative to that of spleen necrosis virus",
+            "authors": [
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Mansky",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Temin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J Virol",
+            "volume": "68",
+            "issn": "",
+            "pages": "494-499",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Characterization of a novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Oberste",
+                    "suffix": ""
+                },
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Monroe",
+                    "suffix": ""
+                },
+                {
+                    "first": "WA",
+                    "middle": [],
+                    "last": "Nix",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Campagnoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Icenogle",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Penaranda",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bankamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Maher",
+                    "suffix": ""
+                },
+                {
+                    "first": "MH",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tamin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Frace",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "DeRisi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "DD",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "TC",
+                    "middle": [],
+                    "last": "Peret",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Burns",
+                    "suffix": ""
+                },
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Rollin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sanchez",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liffick",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Holloway",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Limor",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "McCaustland",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Olsen-Rasmussen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fouchier",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gunther",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Pallansch",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Bellini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085952"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "The visna virus genome: evidence for a hypervariable site in the env gene and sequence homology among lentivirus envelope proteins",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Braun",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Clements",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Gonda",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "J Virol",
+            "volume": "61",
+            "issn": "",
+            "pages": "4046-4054",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "The sequence of the human genome",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Venter",
+                    "suffix": ""
+                },
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "EW",
+                    "middle": [],
+                    "last": "Myers",
+                    "suffix": ""
+                },
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Mural",
+                    "suffix": ""
+                },
+                {
+                    "first": "GG",
+                    "middle": [],
+                    "last": "Sutton",
+                    "suffix": ""
+                },
+                {
+                    "first": "HO",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yandell",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Evans",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Holt",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Gocayne",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Amanatides",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Ballew",
+                    "suffix": ""
+                },
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Huson",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Wortman",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Kodira",
+                    "suffix": ""
+                },
+                {
+                    "first": "XH",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Skupski",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Subramanian",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "GL",
+                    "middle": [],
+                    "last": "Gabor Miklos",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Broder",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Clark",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nadeau",
+                    "suffix": ""
+                },
+                {
+                    "first": "VA",
+                    "middle": [],
+                    "last": "McKusick",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zinder",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Simon",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Slayman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hunkapiller",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bolanos",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Delcher",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dew",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fasulo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Flanigan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Florea",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Halpern",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hannenhalli",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kravitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Levy",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Mobarry",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Reinert",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Remington",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Abu-Threideh",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Beasley",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Biddick",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Bonazzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Brandon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cargill",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Chandramouliswaran",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Charlab",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Chaturvedi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Di Francesco",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Dunn",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Eilbeck",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Evangelista",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Gabrielian",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Gan",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Ge",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Heiman",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Higgins",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Ji",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Ke",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Ketchum",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "GV",
+                    "middle": [],
+                    "last": "Merkulov",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Milshina",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "AK",
+                    "middle": [],
+                    "last": "Naik",
+                    "suffix": ""
+                },
+                {
+                    "first": "VA",
+                    "middle": [],
+                    "last": "Narayan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Neelam",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Nusskern",
+                    "suffix": ""
+                },
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Rusch",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Salzberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Shue",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Wides",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhan",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gilbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Baumhueter",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Spier",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Carter",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cravchik",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Woodage",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ali",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "An",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Awe",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Baldwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Baden",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Barnstead",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Barrow",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Beeson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Busam",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Carver",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Center",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Curry",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Danaher",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Davenport",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Desilets",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dietz",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Dodson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Doup",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ferriera",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Garg",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gluecksmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hart",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Haynes",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Haynes",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Heiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hladun",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hostin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Houck",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Howland",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ibegwam",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Kalush",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kline",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Koduru",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Love",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mann",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "May",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "McCawley",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "McIntosh",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "McMullen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moy",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Moy",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Murphy",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Pfannkoch",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Pratts",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Puri",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Qureshi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Reardon",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "YH",
+                    "middle": [],
+                    "last": "Rogers",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Romblad",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ruhfel",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sitter",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Smallwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Stewart",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Strong",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Suh",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "NN",
+                    "middle": [],
+                    "last": "Tint",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tse",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Vech",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wetter",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Windsor",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Winn-Deen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wolfe",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zaveri",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Zaveri",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Abril",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Guigo",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "KV",
+                    "middle": [],
+                    "last": "Sjolander",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Karlak",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kejariwal",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mi",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Lazareva",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hatton",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Narechania",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Diemer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Muruganujan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sato",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Bafna",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Istrail",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lippert",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Walenz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yooseph",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Basu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Baxendale",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Blick",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Caminha",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Carnes-Stine",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Caulk",
+                    "suffix": ""
+                },
+                {
+                    "first": "YH",
+                    "middle": [],
+                    "last": "Chiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Coyne",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Dahlke",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mays",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dombroski",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ely",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Esparham",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fosler",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gire",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Glanowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Glasser",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Glodek",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gorokhov",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gropman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Harris",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Heil",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Henderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hoover",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Jennings",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jordan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jordan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kasha",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kagan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Kraft",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Levitsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lewis",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lopez",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Majoros",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "McDaniel",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Murphy",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Newman",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nodell",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Peck",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Peterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Rowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sanders",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Simpson",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sprague",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Stockwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Turner",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Venter",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zandieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "291",
+            "issn": "",
+            "pages": "1304-1351",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1058040"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Neighboring-nucleotide effects on single nucleotide polymorphisms: a study of 2.6 million polymorphisms across the human genome",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Boerwinkle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Genome Res",
+            "volume": "12",
+            "issn": "",
+            "pages": "1679-1686",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gr.287302"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Ecological and immunological determinants of influenza evolution",
+            "authors": [
+                {
+                    "first": "NM",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Galvani",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Bush",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "422",
+            "issn": "",
+            "pages": "428-433",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature01509"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "The origin and evolution of Ebola and Marburg viruses",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gojobori",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Mol Biol Evol",
+            "volume": "14",
+            "issn": "",
+            "pages": "800-806",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Molecular evolution of the SARS coronavirus during the course of the SARS epidemic in China",
+            "authors": [],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "303",
+            "issn": "",
+            "pages": "1666-1669",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1092002"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Effects of passage history and sampling bias on phylogenetic reconstruction of human influenza A evolution",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Bush",
+                    "suffix": ""
+                },
+                {
+                    "first": "CB",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "WM",
+                    "middle": [],
+                    "last": "Fitch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "6974-6980",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.97.13.6974"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Comparative analysis of the SARS coronavirus genome: a good start to a long journey",
+            "authors": [
+                {
+                    "first": "Earl",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jason",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Tetro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "The Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1756-1757",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13444-7"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Estimated timing of the last common ancestor of the SARS coronavirus",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "KY",
+                    "middle": [],
+                    "last": "Chow",
+                    "suffix": ""
+                },
+                {
+                    "first": "FC",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "349",
+            "issn": "",
+            "pages": "2469-2470",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJM200312183492523"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Swift response greets return of SARS in China",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cyranoski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "427",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Isolation and characterization of viruses related to the SARS coronavirus from animals in southern China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "YQ",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "XL",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZX",
+                    "middle": [],
+                    "last": "Zhuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "SW",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "PH",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "YJ",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Butt",
+                    "suffix": ""
+                },
+                {
+                    "first": "KL",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "KW",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "KF",
+                    "middle": [],
+                    "last": "Shortridge",
+                    "suffix": ""
+                },
+                {
+                    "first": "KY",
+                    "middle": [],
+                    "last": "Yuen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JSM",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "LLM",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "302",
+            "issn": "",
+            "pages": "276-278",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1087139"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Gibson",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Plewniak",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Jeanmougin",
+                    "suffix": ""
+                },
+                {
+                    "first": "DG",
+                    "middle": [],
+                    "last": "Higgins",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nucleic Acids Res",
+            "volume": "25",
+            "issn": "",
+            "pages": "4876-4882",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/25.24.4876"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "IB",
+                    "middle": [],
+                    "last": "Jakobsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "MEGA2: Molecular Evolutionary Genetics Analysis software",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Evolution of protein molecules",
+            "authors": [
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Jakes",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Cantor",
+                    "suffix": ""
+                }
+            ],
+            "year": 1969,
+            "venue": "Mammalian Protein Metabolism",
+            "volume": "",
+            "issn": "",
+            "pages": "21-132",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "The neighbor-joining method: a new method for reconstructing phylogenetic trees",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Saitou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Mol Biol Evol",
+            "volume": "4",
+            "issn": "",
+            "pages": "406-425",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Epidemiological determinants of spread of causal agent of severe acute respiratory syndrome in Hong Kong",
+            "authors": [
+                {
+                    "first": "Christl",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "Azra",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Ghani",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gabriel",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "Anthony",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hedley",
+                    "suffix": ""
+                },
+                {
+                    "first": "Christophe",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "Steven",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "Laith",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Abu-Raddad",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lai-Ming",
+                    "middle": [],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "Thuan-Quoc",
+                    "middle": [],
+                    "last": "Thach",
+                    "suffix": ""
+                },
+                {
+                    "first": "Patsy",
+                    "middle": [],
+                    "last": "Chau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "The Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1761-1766",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13410-1"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "A novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Peret",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Emery",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Urbani",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Comer",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Rollin",
+                    "suffix": ""
+                },
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Dowell",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Humphrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Shieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Guarner",
+                    "suffix": ""
+                },
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Paddock",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Fields",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "DeRisi",
+                    "suffix": ""
+                },
+                {
+                    "first": "JY",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Hughes",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "LeDuc",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Bellini",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1953-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030781"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Identification of severe acute respiratory syndrome in Canada",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Poutanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "DE",
+                    "middle": [],
+                    "last": "Low",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Henry",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Finkelstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Rose",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Tellier",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Draker",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Adachi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ayers",
+                    "suffix": ""
+                },
+                {
+                    "first": "AK",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Skowronski",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Salit",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Simor",
+                    "suffix": ""
+                },
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Slutsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Doyle",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Krajden",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Petric",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Brunham",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "McGeer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1995-2005",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030634"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "A new method for estimating synonymous and nonsynonymous rates of nucleotide substitution considering the relative likelihood of nucleotide and codon changes",
+            "authors": [
+                {
+                    "first": "WH",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "CI",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Mol Biol Evol",
+            "volume": "2",
+            "issn": "",
+            "pages": "150-174",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Comparative full-length genome sequence analysis of 14 SARS coronavirus isolates and common mutations associated with putative origins of infection",
+            "authors": [
+                {
+                    "first": "Yi",
+                    "middle": [
+                        "Jun"
+                    ],
+                    "last": "Ruan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Chia",
+                    "middle": [
+                        "Lin"
+                    ],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ai",
+                    "middle": [
+                        "Ee"
+                    ],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "Vinsensius",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Vega",
+                    "suffix": ""
+                },
+                {
+                    "first": "Herve",
+                    "middle": [],
+                    "last": "Thoreau",
+                    "suffix": ""
+                },
+                {
+                    "first": "Su",
+                    "middle": [
+                        "Yun"
+                    ],
+                    "last": "Se Thoe",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jer-Ming",
+                    "middle": [],
+                    "last": "Chia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Patrick",
+                    "middle": [],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kuo",
+                    "middle": [
+                        "Ping"
+                    ],
+                    "last": "Chiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Landri",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "The Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1779-1785",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13414-9"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "KV",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "In: Knipe DM, Howley, PM, eds. Fundamental Virology",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Function of a 5'-end genomic RNA mutation that evolves during persistent mouse hepatitis virus infection in vitro",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "RS",
+                    "middle": [],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J Virol",
+            "volume": "69",
+            "issn": "",
+            "pages": "7529-7540",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Antigen selection and presentation to protect against transmissible gastroenteritis coronavirus",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sune",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gebauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Smerdou",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Camacho",
+                    "suffix": ""
+                },
+                {
+                    "first": "IM",
+                    "middle": [],
+                    "last": "Anton",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gonzalez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Talamillo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mendez",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Ballesteros",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sanchez",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Vet Microbiol",
+            "volume": "33",
+            "issn": "",
+            "pages": "249-262",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0378-1135(92)90053-V"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Does IBV change slowly despite the capacity of the spike protein to vary greatly?",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mawditt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Adzhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Gough",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Picault",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Naylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Haydon",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Britton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Adv Exp Med Biol",
+            "volume": "440",
+            "issn": "",
+            "pages": "729-734",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "Evaluation of accumulation of hepatitis C virus mutations in a chronically infected chimpanzee: comparison of the core, E1, HVR1, and NS5b regions",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nakano",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Orito",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mizokami",
+                    "suffix": ""
+                },
+                {
+                    "first": "BH",
+                    "middle": [],
+                    "last": "Robertson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Virol",
+            "volume": "75",
+            "issn": "",
+            "pages": "3004-3009",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.6.3004-3009.2001"
+                ]
+            }
+        }
+    }
+}
