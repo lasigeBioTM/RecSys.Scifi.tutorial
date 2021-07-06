@@ -81,7 +81,6 @@ def loading_items(is_chebi, is_do, is_go, is_hp):
 
     # if doid.owl does not exists
     if (not os.path.exists(path_do) and is_do):
-        print('i am here')
         url = " http://purl.obolibrary.org/obo/doid.owl"
         get_owl(url, path=os.path.dirname(path_do))  
     
@@ -110,6 +109,7 @@ def loading_items(is_chebi, is_do, is_go, is_hp):
         print('Loading ... hp')
         hp = load_ontology(path=path_hp)     
     
+    print('End!')
     return chebi, do, go, hp
 
 # --------------------------------------------------------------------------- #
@@ -123,7 +123,7 @@ def load_ontology(path):
 
 # --------------------------------------------------------------------------- #
 
-def get_entities_labels(lst, chebi, do, go, hp):
+def get_entities_labels(lst, prefix_chebi, prefix_do, prefix_go, prefix_hp):
     '''
     Get entities lables from http://purl.obolibrary.org/obo/ based on items prefix
     :param  lst: list of entities
@@ -135,12 +135,12 @@ def get_entities_labels(lst, chebi, do, go, hp):
 
         uri = URIRef('http://purl.obolibrary.org/obo/' + id)
         if id.startswith('CHEBI'):
-            lab = chebi.label(uri)
+            lab = prefix_chebi.label(uri)
         elif id.startswith('GO'):
-            lab = go.label(uri)
+            lab = prefix_go.label(uri)
         elif id.startswith('HP'):
-            lab = hp.label(uri)
+            lab = prefix_hp.label(uri)
         elif id.startswith('DO'):
-            lab = do.label(uri)
+            lab = prefix_do.label(uri)
         label.append(lab)
     return label

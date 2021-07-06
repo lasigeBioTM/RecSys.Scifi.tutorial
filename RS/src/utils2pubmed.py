@@ -93,18 +93,6 @@ def get_abstract_by_bio(pmid):
         abstract += element
     return abstract
 
-# --------------------------------------------------------------------------- #
-
-def get_year_by_metapub(pmcid):
-    '''
-    Get PubMed year using metapub
-
-    :param  pmcid:
-    :return year         
-    '''
-    fetch = PubMedFetcher()
-    article = fetch.article_by_pmcid(pmcid)
-    return article.year
 
 # --------------------------------------------------------------------------- #
 
