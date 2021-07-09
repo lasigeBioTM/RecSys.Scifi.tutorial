@@ -40,7 +40,7 @@ ipython kernel install --user --name=recsys_scifi
 jupyter notebook
 ```
 
-Which will open http://localhost:8888/notebooks/ the in the browser.
+Which will open http://localhost:8888/notebooks/ in the browser.
 
 2. Open the file 'tutorial.ipynb'.
 
