@@ -8,7 +8,7 @@ Aug 14-18, 2021 Schedule: Aug. 15, 2021 4:00 AM - 7:00 AM (Singapore Time)
 
 ## Preparation
 
-1. Create virtual environment with conda and python=3.6:
+1. Create virtual environment with Conda and Python 3.6:
 
 ```
 conda create --name recsys_scifi python=3.6
