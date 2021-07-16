@@ -1,6 +1,5 @@
 langdetect
 ipykernel
-requests
 pandas
 merpy
 numpy
