@@ -45,3 +45,31 @@ Which will open http://localhost:8888/notebooks/ in the browser.
 2. Open the file 'tutorial.ipynb'.
 
 3. Click on 'Kernel' > 'Change kernel' > 'recsys_scifi' to ensure the tutorial is running on the created virtual environment.
+
+## Close tutorial
+
+1. Close and Shutdown Jupyter Notebook
+
+1.1. Shutdown Jupyter Notebook Files from the dashboard
+
+In the Kernel Sessions tab, click SHUTDOWN for the appropriate notebook to terminate the session for that notebook.
+
+or,
+
+In the File Browser tab and selecting Kernel > then Shutdown Kernel.
+
+1.2. Shutdown the Jupyter Notebook Local Server
+
+You can also close your terminal by typing the command ```exit``` and hitting Enter.
+
+2. Deactivate the created virtual environment
+
+```
+conda deactivate
+```
+
+3. Remove the virtual environment and all packages with Anaconda
+
+```
+conda env remove --name recsys_scifi
+```
