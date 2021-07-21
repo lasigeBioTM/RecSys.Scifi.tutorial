@@ -5,6 +5,15 @@
 Tutorial at ACM Conference on Knowledge Discovery and Data Mining (KDD)
 Aug 14-18, 2021 Schedule: Aug. 15, 2021 4:00 AM - 7:00 AM (Singapore Time)
 
+- [Table of Contents](#table-of-contents)
+  * [0. Prerequirements](#0-prerequirements)
+  * [1. Download the repository](#1-download-the-repository)
+  * [2. Preparation](#2-preparation)
+  * [3. Open the tutorial](#3-open-the-tutorial)
+  * [4. Close and Shutdown Jupyter Notebook](#4-close-and-shutdown-jupyter-notebook)
+  * [5. Remove the created virtual environment](#5-remove-the-created-virtual-environment)
+   
+
 ## 0. Prerequirements
 
 - OS: Ubuntu Ubuntu 18.04 LTS or higher, OS X
@@ -109,7 +118,7 @@ Which will open http://localhost:8888/notebooks/ in the browser.
 
 ## 4. Close and Shutdown Jupyter Notebook
 
-#### a) Shutdown Jupyter Notebook Files from the dashboard
+**a) Shutdown Jupyter Notebook Files from the dashboard**
 
 - In the Kernel Sessions tab, click on 'SHUTDOWN' for the appropriate notebook to terminate the session for that notebook.
 
@@ -118,13 +127,13 @@ or
 - In the File Browser tab and selecting 'Kernel' > 'Shutdown Kernel'.
 
 
-#### b) Shutdown the Jupyter Notebook Local Server
+**b) Shutdown the Jupyter Notebook Local Server**
 
 You can also close your terminal by typing the command ```exit``` and hitting Enter.
 
 ## 5. Remove the created virtual environment
 
-#### a) Anaconda or Miniconda
+**a) Anaconda or Miniconda**
 
 
 - Deactivate the created virtual environment:
@@ -140,7 +149,7 @@ conda env remove --name recsys_scifi
 ```
 
 
-#### b) venv
+**b) venv**
 
 
 - Deactivate the created virtual environment:
