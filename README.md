@@ -20,6 +20,8 @@ Aug 14-18, 2021 Schedule: Aug. 15, 2021 4:00 AM - 7:00 AM (Singapore Time)
 
 - Python 3.8
 
+- Browser (Firefox or Google Chrome)
+
 
 ## 1. Download the repository
 
@@ -103,13 +105,13 @@ ipython kernel install --user --name=recsys_scifi
 
 ## 3. Open the tutorial
 
-- Run the following command:
+- To start the Notebook Server run the following command:
 
 ```
 jupyter notebook
 ```
 
-Which will open http://localhost:8888/notebooks/ in the browser.
+Which will open http://localhost:8888/notebooks/ in the default browser.
 
 - Open the file 'tutorial.ipynb'.
 
