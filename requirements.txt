@@ -1,4 +1,5 @@
 langdetect
+jupyter
 ipykernel
 pandas
 merpy
@@ -15,3 +16,4 @@ Bio==0.4.1
 entrezpy==2.1.3
 requests==2.6.0
 nltk
+matplotlib
