@@ -16,7 +16,7 @@ Aug 14-18, 2021 Schedule: Aug. 15, 2021 4:00 AM - 7:00 AM (Singapore Time)
 
 ## 0. Prerequirements
 
-- OS: Ubuntu Ubuntu 18.04 LTS or higher, OS X
+- OS: Ubuntu 18.04 LTS or higher, OS X
 
 - Python 3.8
 
