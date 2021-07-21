@@ -6,8 +6,10 @@
 </p>
 
 
-Tutorial at ACM Conference on Knowledge Discovery and Data Mining (KDD)
-Aug 14-18, 2021 Schedule: Aug. 15, 2021 4:00 AM - 7:00 AM (Singapore Time)
+Tutorial at the [ACM Conference on Knowledge Discovery and Data Mining (KDD)](https://www.kdd.org/kdd2021/)
+Aug 14-18, 2021 
+
+Schedule: Aug. 15, 2021 4:00 AM - 7:00 AM (Singapore Time)
 
 ## Table of Contents
   * [0. Prerequirements](#0-prerequirements)
