@@ -1,6 +1,10 @@
-# RecSys.Scifi.tutorial
+# [RecSys.Scifi: Recommender Systems Datasets in Scientific Fields](https://lasigebiotm.github.io/RecSys.Scifi/)
 
-[*Recommender Systems Datasets in Scientific Fields*](https://lasigebiotm.github.io/RecSys.Scifi/)
+
+<p align="center">
+<img src="https://lasigebiotm.github.io/RecSys.Scifi/assets/img/recommender-bg.jpg" width="50%" height="50%">
+</p>
+
 
 Tutorial at ACM Conference on Knowledge Discovery and Data Mining (KDD)
 Aug 14-18, 2021 Schedule: Aug. 15, 2021 4:00 AM - 7:00 AM (Singapore Time)
@@ -47,7 +51,7 @@ cd RecSys.Scifi.tutorial-main/
 
 ## 2. Preparation
 
-a) **With [Anaconda](https://docs.conda.io/en/latest/miniconda.html) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) and Python 3.8**
+a) **If [Anaconda](https://docs.conda.io/en/latest/miniconda.html) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) is installed**:
 
 - Create virtual environment
 
@@ -74,7 +78,7 @@ ipython kernel install --user --name=recsys_scifi
 ```
 
 
-b) **With [venv](https://docs.python.org/3/library/venv.html) module**
+b) **With [venv](https://docs.python.org/3/library/venv.html) module**:
 
 - Install venv package and create virtual environment:
 
