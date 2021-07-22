@@ -26,7 +26,7 @@ Schedule: Aug. 15, 2021 4:00 AM - 7:00 AM (Singapore Time)
 
 - Python 3.8
 
-- Browser (Firefox or Google Chrome)
+- Browser (Firefox, Safari or Google Chrome)
 
 
 ## 1. Download the repository
