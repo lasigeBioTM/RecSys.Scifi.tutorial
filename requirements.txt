@@ -1,4 +1,4 @@
-langdetect
+langdetect==1.0.9
 jupyter
 ipykernel
 pandas
