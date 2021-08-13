@@ -34,7 +34,7 @@ Schedule: Aug. 15, 2021 4:00 AM - 7:00 AM (Singapore Time)
 a) With git clone:
 
 ```
-git clone git@github.com:lasigeBioTM/RecSys.Scifi.tutorial.git
+git clone https://github.com/lasigeBioTM/RecSys.Scifi.tutorial.git
 
 cd RecSys.Scifi.tutorial/
 ```
