@@ -39,6 +39,14 @@ git clone https://github.com/lasigeBioTM/RecSys.Scifi.tutorial.git
 cd RecSys.Scifi.tutorial/
 ```
 
+or 
+
+```
+git clone git@github.com:lasigeBioTM/RecSys.Scifi.tutorial.git
+
+cd RecSys.Scifi.tutorial/
+```
+
 b) By retrieving directly the repository zip file 
 
 ```
